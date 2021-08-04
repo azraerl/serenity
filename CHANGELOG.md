@@ -12,6 +12,7 @@
 - Update [Better Dynamic Snow SE (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
 - Update [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
 - Update [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Update [Requiem - Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/43185) to use LibFire/LibMathf
 
 ## Serenity 2 v1.5.0
 
@@ -137,6 +138,9 @@
 - Added [Red X custom destination marker (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
 - Added [Dialogue Interface ReShaped (1.03)](https://www.nexusmods.com/skyrimspecialedition/mods/46546)
 - Added [Paper HUD (4)](https://www.nexusmods.com/skyrimspecialedition/mods/34513)
+- Added [AllGUD Tweaks (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50238)
+- Added [AllGud SE Azura Star Fix (2.3.4.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/48786)
+- Added [All Geared Up Derivative - JS Purses and Septims Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/44581)
 - Removed [Nether's Follower Framework]
 - Removed [Fixed Dragon Stalking Fix]
 - Removed [Enchantment Reload Fix SE]
