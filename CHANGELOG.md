@@ -1,5 +1,18 @@
 # Changelog
 
+## next: updates which did not made a cut for v1.5.0
+
+- Update [BeastHHBB - NPC Replacer and Player (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+- Update [JK's Interiors Patch Collection (3.9.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Update [Dwemer Gates Don't Reset (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
+- Update [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Update [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Update [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+- Update [Bright Waterfall Fix for ENB (3.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+- Update [Better Dynamic Snow SE (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
+- Update [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Update [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+
 ## Serenity 2 v1.5.0
 
 **Build at:** `tbd`
