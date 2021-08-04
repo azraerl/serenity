@@ -11,7 +11,7 @@
 
 **Mod Changes**:
 
-- Updated [BeastHHBB - NPC Replacer and Player | 3.0]
+- Updated [BeastHHBB - NPC Replacer and Player (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 - Updated [Completionist - Quest Tracker | 3.1]
 - Updated [JK's Interiors Patch Collection | 3.5.2]
 - Updated [Deiform Alduin Particle Lights | 1.1]
