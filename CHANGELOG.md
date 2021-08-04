@@ -12,123 +12,124 @@
 **Mod Changes**:
 
 - Updated [BeastHHBB - NPC Replacer and Player (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
-- Updated [Completionist - Quest Tracker | 3.1]
-- Updated [JK's Interiors Patch Collection | 3.5.2]
-- Updated [Deiform Alduin Particle Lights | 1.1]
-- Updated [Dwemer Gates Don't Reset | 1.3.1]
-- Updated [JK's Sleeping Giant Inn | 1.1.0]
-- Updated [JK's The Winking Skeever | 1.2.0]
-- Updated [JK's Warmaiden's | 1.2.0]
-- Updated [KS Hairdos SSE | 1.8]
-- Updated [Legacy of the Dragonborn Patches (Official) | 2.5.3]
-- Updated [Legacy of the Dragonborn SSE | 5.5.2]
-- Updated [Legacy of the Dragonborn  - The Curators Companion | 6.0.4]
-- Updated [Missives - Worldspace Additions - Wyrmstooth Patch | 2.04b]
-- Updated [NARC Remade  - No Animals Report Crimes for Skyrim SE | 1.0.3]
-- Updated [Requiem - Expanded Grimoire | 3.1.0]
-- Updated [Requiem - small tweaks SE - NPC Statefix | 0.2g]
-- Updated [Requiem - small tweaks SE - Vampire Collection | 0.3b]
-- Updated [Requiem - The Roleplaying Overhaul | 4.0.2]
-- Updated [Requiem - Unarmed Combat Enhancer | 0.3.1]
-- Updated [Skyrim Landscape and Water Fixes | 6.2]
-- Updated [SunHelm Survival and needs | 2.0.6]
-- Updated [Unofficial Skyrim Special Edition Patch | 4.2.5b]
-- Updated [Weapons Armor Clothing and Clutter Fixes | 2.4]
-- Updated [WoW Dragon Mounds CTD Fix | 1.2]
-- Updated [Wyrmstooth | 1.19.4]
-- Updated [Your Choices Matter - A Dark Brotherhood Expansion SSE | 2.0.6]
-- Updated [More Informative Console | 0.43]
-- Updated [powerofthree's Papyrus Extender | 4.4.2]
-- Updated [Bright Waterfall Fix for ENB | 3.3.1]
-- Updated [Enhanced Reanimation | 1.3]
-- Updated [Majestic Mountains - Lod Pack for DynDoLod | 1.2]
-- Updated [Scrambled Bugs | 11.0.0]
-- Updated [Scrambled Eggchantments | 1.0]
-- Updated [SSE Display Tweaks | 0.4.15-1]
-- Updated [SSE Display Tweaks - High performance configuration | 0.4.15-1]
-- Updated [Deiform Alduin 8K | 1.1]
-- Updated [Flinching - Script Free Edition | 1.37]
-- Updated [Sovngarde HD 2K | 3.1]
-- Updated [Immersive Dragons | 1.4]
-- Updated [Majestic Mountains - Mesh Tangent Space Fixes | 1.0]
-- Updated [Mild Complexions | 2.0]
-- Updated [Whiterun Mesh Fixes | 1.1.5]
-- Updated [Smooth Random Blocking Animation | 2.1 - d2021.6.3]
-- Updated [Smooth Random Sprint Animation | 2.1 - d2021.6.3]
-- Updated [Smooth Magic Casting Animation | 3.2 - d2021.6.3]
-- Updated [Smooth Combat - Non Combat Animation System | 2.3.0.0]
-- Updated [Smooth Random Magic idle Animation | 1.0 - d2021.6.3]
-- Updated [Mod.Organizer-2.4.2.7z]
-- Updated [enbseries_skyrimse_v0460.zip]
-- Updated [Better Dynamic Snow SE | 2.11.0]
-- Updated [xLODGen.83.7z]
-- Updated [Skyrim - A Mountainous Experience | 1.5.6]
-- Updated [Sleek Wolf Armor - Replacer and Standalone - CBBE - BHUNP - HIMBO - Vanilla | 1.3]
-- Updated [Real Rabbits HD - Color Variants and High Poly Mesh with Fur - Fluffy | 1.3]
-- Added [Dragon Stalking Fix (Loose Files Update) | 1.0]
-- Added [Better Dynamic Snow in New Lands | 2.1.3]
-- Added [Better Stealth AI for Followers | 3.4]
-- Added [Bleak falls barrow - Revisited | 1.2.1]
-- Added [Dlizzio's Mesh Fixes | 2.3]
-- Added [Embershard Mine - Revisited | 1.1.3]
-- Added [Halted Stream Camp - Revisited | 1.0.2]
-- Added [Horses for Followers | 1.3]
-- Added [JK's Candlehearth Hall | 1.0.0]
-- Added [JK's Elgrims Elixirs | 1.0.0]
-- Added [JK's Elgrims Elixirs - Bee and Barb Patch | 1.0.0]
-- Added [JK's New Gnisis Cornerclub | 1.0.0]
-- Added [JK's Palace of the Kings | 1.1.1]
-- Added [JK's Sadris Used Wares | 1.0.0]
-- Added [JK's Sadris Used Wares ELFX patch | 1.0.0]
-- Added [JK's The Bee and Barb | 1.0.1]
-- Added [JK's The Pawned Prawn | 1.0.1]
-- Added [JK's The Ragged Flagon | 1.0.0]
-- Added [JK's White Phial | 1.1.1]
-- Added [JK's White Phial ELFX patch | 1.1.1]
-- Added [JS Instruments of Skyrim SE | 1.1]
-- Added [LibFire | 1.0.7.1]
-- Added [Majestic Mountains-BDS With LOD Fix | 1.0.2]
-- Added [Requiem - Shrine Blessings Ignore Conditions - Crime Only | 1.0]
-- Added [Simple Follower Sandbox | 1.1.0]
-- Added [Simple Outfit System | 0.2.3]
-- Added [Simple Taxes SE | 3.5]
-- Added [SNIFF - Simple No Internal Friendly Fire | 1.2]
-- Added [Stay With Me SSE | 1.2.2]
-- Added [Steepfall Burrow - Revisited | 1.1]
-- Added [Teach Followers Spells Through Spell Tomes SE | 1.0]
-- Added [Unique Skulls HD - SE | 1.0]
-- Added [Ustengrav - Revisited | 1.1.1]
-- Added [White River Watch - Revisited | 1.0.2]
-- Added [Windhelm Bridge Tweaks | 1.1]
-- Added [Follower Trap Safety | 1.3]
-- Added [SSEEdit Script - Fix Oldrim Mods Waterflow | 1.2]
-- Added [Equip Enchantment Fix | 1.2.4]
-- Added [powerofthree's Tweaks | 1.2]
-- Added [powerofthree's Tweaks - INI file | 1.2]
-- Added [Unofficial Material Fix | 1.17.0]
-- Added [Assorted mesh fixes | 0.18]
-- Added [Northfire's Windhelm | 1]
-- Added [Unique Skulls HD - SE 2K | 1.0]
-- Added [Unique Skulls HD - SE 2k LOTD | 1.0]
-- Added [JS Instruments of Skyrim SE - All Gud Patch | 1.1]
-- Added [Unique Skulls HD - SE - Skull keys Enb-Light Patch | 1.0]
-- Added [Experience | 1.2.0]
-- Added [Requiem - Static Skill Leveling | 2.0.2]
-- Added [Requiem - Immersive Racial Traits | 0.9]
-- Added [Dear Diary - Paper SkyUI Menus Replacer SE | 3.0.5]
-- Added [Dear Diary Startscreen Retexture | 1.0]
-- Added [Paper World Map for SSE | 1.4]
-- Added [Paper World Map Addons | 1.2.2]
-- Added [Paper UI Sounds for Skyrim | 6.1]
-- Added [Dialogue Interface ReShaped | 1.03]
-- Added [Paper HUD] ?
+- Updated [Completionist - Quest Tracker (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
+- Updated [JK's Interiors Patch Collection (3.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Deiform Alduin 8K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/44329)
+- Updated [Deiform Alduin Particle Lights (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/44329)
+- Updated [Dwemer Gates Don't Reset (1.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
+- Updated [JK's Sleeping Giant Inn (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/35806)
+- Updated [JK's The Winking Skeever (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43991)
+- Updated [JK's Warmaiden's (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/33685)
+- Updated [KS Hairdos SSE (1.8)](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
+- Updated [Legacy of the Dragonborn Patches (Official) (2.5.3)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- Updated [Legacy of the Dragonborn SSE (5.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+- Updated [Legacy of the Dragonborn  - The Curators Companion (6.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+- Updated [Missives - Worldspace Additions - Wyrmstooth Patch (2.04b)](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [NARC Remade  - No Animals Report Crimes for Skyrim SE (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/17946)
+- Updated [Requiem - Expanded Grimoire (3.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Requiem - small tweaks SE - NPC Statefix (0.2g)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - small tweaks SE - Vampire Collection (0.3b)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - The Roleplaying Overhaul (4.0.2)](https://www.nexusmods.com/skyrim/mods/19281)
+- Updated [Requiem - Unarmed Combat Enhancer (0.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
+- Updated [Skyrim Landscape and Water Fixes (6.2)](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
+- Updated [SunHelm Survival and needs (2.0.6)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Unofficial Skyrim Special Edition Patch (4.2.5b)](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+- Updated [Weapons Armor Clothing and Clutter Fixes (2.4)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+- Updated [WoW Dragon Mounds CTD Fix (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43188)
+- Updated [Wyrmstooth (1.19.4)](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+- Updated [Your Choices Matter - A Dark Brotherhood Expansion SSE (2.0.6)](https://www.nexusmods.com/skyrimspecialedition/mods/46871)
+- Updated [More Informative Console (0.43)](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
+- Updated [powerofthree's Papyrus Extender (4.4.2)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Bright Waterfall Fix for ENB (3.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+- Updated [Enhanced Reanimation (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
+- Updated [Majestic Mountains - Lod Pack for DynDoLod (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Majestic Mountains - Mesh Tangent Space Fixes (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
+- Updated [Scrambled Bugs (11.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [Scrambled Eggchantments (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [SSE Display Tweaks (0.4.15-1)](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [SSE Display Tweaks - High performance configuration (0.4.15-1)](https://www.nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Flinching - Script Free Edition (1.37)](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+- Updated [Sovngarde HD 2K (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/15891)
+- Updated [Immersive Dragons (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/18957)
+- Updated [Mild Complexions (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/28510)
+- Updated [Whiterun Mesh Fixes (1.1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/48120)
+- Updated [Smooth Random Blocking Animation (2.1 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Smooth Random Sprint Animation (2.1 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Smooth Magic Casting Animation (3.2 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Smooth Combat - Non Combat Animation System (2.3.0.0)](https://smooths.tistory.com/)
+- Updated [Smooth Random Magic idle Animation (1.0 - d2021.6.3)](https://smooths.tistory.com/)
+- Updated [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/)
+- Updated [enbseries_skyrimse_v0460.zip](http://enbdev.com/download_mod_tesskyrimse.htm)
+- Updated [Better Dynamic Snow SE (2.11.0)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
+- Updated [xLODGen.83.7z](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-83-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)
+- Updated [Skyrim - A Mountainous Experience (1.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/43866)
+- Updated [Sleek Wolf Armor - Replacer and Standalone - CBBE - BHUNP - HIMBO - Vanilla (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/44812)
+- Updated [Real Rabbits HD - Color Variants and High Poly Mesh with Fur - Fluffy (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/29223)
+- Added [Dragon Stalking Fix (Loose Files Update) (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/46472)
+- Added [Better Dynamic Snow in New Lands (2.1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/22741)
+- Added [Better Stealth AI for Followers (3.4)](https://www.nexusmods.com/skyrimspecialedition/mods/17600)
+- Added [Bleak falls barrow - Revisited (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/33251)
+- Added [Dlizzio's Mesh Fixes (2.3)](https://www.nexusmods.com/skyrimspecialedition/mods/39260)
+- Added [Embershard Mine - Revisited (1.1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/34468)
+- Added [Halted Stream Camp - Revisited (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/39199)
+- Added [Horses for Followers (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/45500)
+- Added [JK's Candlehearth Hall (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/45617)
+- Added [JK's Elgrims Elixirs (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49934)
+- Added [JK's Elgrims Elixirs - Bee and Barb Patch (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49934)
+- Added [JK's New Gnisis Cornerclub (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/48293)
+- Added [JK's Palace of the Kings (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/48902)
+- Added [JK's Sadris Used Wares (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+- Added [JK's Sadris Used Wares ELFX patch (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+- Added [JK's The Bee and Barb (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
+- Added [JK's The Pawned Prawn (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/50135)
+- Added [JK's The Ragged Flagon (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50765)
+- Added [JK's White Phial (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
+- Added [JK's White Phial ELFX patch (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47713)
+- Added [JS Instruments of Skyrim SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51959)
+- Added [LibFire (1.0.7.1)](https://www.nexusmods.com/skyrimspecialedition/mods/49897)
+- Added [Majestic Mountains-BDS With LOD Fix (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/36248)
+- Added [Requiem - Shrine Blessings Ignore Conditions - Crime Only (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51574)
+- Added [Simple Follower Sandbox (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/48636)
+- Added [Simple Outfit System (0.2.3)](https://www.nexusmods.com/skyrimspecialedition/mods/48974)
+- Added [Simple Taxes SE (3.5)](https://www.nexusmods.com/skyrimspecialedition/mods/14216)
+- Added [SNIFF - Simple No Internal Friendly Fire (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43618)
+- Added [Stay With Me SSE (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/23603)
+- Added [Steepfall Burrow - Revisited (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/34594)
+- Added [Teach Followers Spells Through Spell Tomes SE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17384)
+- Added [Ustengrav - Revisited (1.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/33878)
+- Added [White River Watch - Revisited (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/39294)
+- Added [Windhelm Bridge Tweaks (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38433)
+- Added [Follower Trap Safety (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/2755)
+- Added [SSEEdit Script - Fix Oldrim Mods Waterflow (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/5221)
+- Added [Equip Enchantment Fix (1.2.4)](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+- Added [powerofthree's Tweaks (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Added [powerofthree's Tweaks - INI file (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Added [Unofficial Material Fix (1.17.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21027)
+- Added [Assorted mesh fixes (0.18)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Added [Northfire's Windhelm (1)](https://www.nexusmods.com/skyrimspecialedition/mods/44099)
+- Added [Unique Skulls HD - SE 2K (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Added [Unique Skulls HD - SE 2k LOTD (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Added [Unique Skulls HD - SE - Skull keys Enb-Light Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Added [JS Instruments of Skyrim SE - All Gud Patch (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51959)
+- Added [Experience (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- Added [Requiem - Static Skill Leveling (2.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
+- Added [Requiem - Immersive Racial Traits (0.9)](https://www.nexusmods.com/skyrimspecialedition/mods/47231)
+- Added [Dear Diary - Paper SkyUI Menus Replacer SE (3.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/23010)
+- Added [Dear Diary Startscreen Retexture (1.0)](https://www.nexusmods.com/skyrim/mods/101685)
+- Added [Paper World Map for SSE (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/10836)
+- Added [Paper World Map Addons (1.2.2)](https://www.nexusmods.com/skyrim/mods/84734)
+- Added [Warburg's Paper World Map Flat Mesh with Unofficial Fix and Flat Map Markers JSON](https://www.nexusmods.com/skyrimspecialedition/mods/23114)
+- Added [Flat Map markers SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22122)
+- Added [Paper UI Sounds for Skyrim (6.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
+- Added [Red X custom destination marker (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
+- Added [Dialogue Interface ReShaped (1.03)](https://www.nexusmods.com/skyrimspecialedition/mods/46546)
+- Added [Paper HUD (4)](https://www.nexusmods.com/skyrimspecialedition/mods/34513)
 - Removed [Nether's Follower Framework]
 - Removed [Fixed Dragon Stalking Fix]
-- Removed [reshade-shaders]
-- Removed [Pirate-Shaders]
 - Removed [Enchantment Reload Fix SE]
 - Removed [Fluffy Snow Windhelm Bridge and Street Fix]
 - Removed [ElSopa HD - Dragonborn Skull Variants SE - 1K Dragonborn Skull Variant]
+- Removed various UI mods in favour of paper UI
 
 **Fixes & Tweaks**:
 
@@ -140,6 +141,8 @@
 - Created two profiles which will be supported from now on:
   - Serenity: Experience and SSL
   - Serenity Vanilla: Vanilla XP
+- [Xanza] Replaced NFF with separate set of followers mods
+- [Xanza] Added set of Revisited dungeons, JK's mods and various mod updates
 
 ## Serenity 2 v1.4.0
 
