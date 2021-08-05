@@ -11,7 +11,7 @@
 
 **Mod Changes**:
 
-- Updated [BeastHHBB - NPC Replacer and Player (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
+- Updated [BeastHHBB - NPC Replacer and Player (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 - Updated [Completionist - Quest Tracker (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/46358)
 - Updated [JK's Interiors Patch Collection (3.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Updated [Deiform Alduin 8K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/44329)
@@ -123,17 +123,22 @@
 - Added [Paper UI Sounds for Skyrim (6.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
 - Added [Red X custom destination marker (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
 - Added [Dialogue Interface ReShaped (1.03)](https://www.nexusmods.com/skyrimspecialedition/mods/46546)
-- Added [Paper HUD (4)](https://www.nexusmods.com/skyrimspecialedition/mods/34513)
+- Added [Paper HUD (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/34513)
 - Added [AllGUD Tweaks (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50238)
 - Added [AllGud SE Azura Star Fix (2.3.4.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/48786)
 - Added [All Geared Up Derivative - JS Purses and Septims Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/44581)
 - Added [Rally's Honey Pot (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/27984)
+- Added [Enderal Font for Skyrim SE (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/2004)
+- Added [Scribes of Skyrim - a font extension (0.9.3)](https://www.nexusmods.com/skyrimspecialedition/mods/50008)
+- Added [SunHelm Survival - Compatibility Patches (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/41335)
 - Removed [Nether's Follower Framework]
 - Removed [Fixed Dragon Stalking Fix]
 - Removed [Enchantment Reload Fix SE]
 - Removed [Fluffy Snow Windhelm Bridge and Street Fix]
 - Removed [ElSopa HD - Dragonborn Skull Variants SE - 1K Dragonborn Skull Variant]
 - Removed [Hoeny Pot Special Edition]
+- Removed [Sovngarde - A Nordic Font]
+- Removed [Main menu spinning Skyrim emblem]
 - Removed various UI mods in favour of paper UI
 
 **Fixes & Tweaks**:
@@ -151,7 +156,6 @@
 
 ## Stuff to consider for next version
 
-- Update [BeastHHBB - NPC Replacer and Player (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 - Update [JK's Interiors Patch Collection (3.9.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Update [Dwemer Gates Don't Reset (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
 - Update [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
