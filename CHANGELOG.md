@@ -16,7 +16,7 @@
 
 ## Serenity 2 v1.5.0
 
-**Build at:** `tbd`
+**Build at:** `05.08.2021 10:15`
 
 **Info**:
 
