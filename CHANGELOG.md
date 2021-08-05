@@ -20,8 +20,8 @@
 
 **Info**:
 
-- Download Size change: tbd
-- Install Size change: tbd
+- Download Size change: +0.06GB (Total: 68.26GB)
+- Install Size change: +2.56GB (Total: 96.96GB)
 
 **Mod Changes**:
 
