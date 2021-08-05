@@ -141,11 +141,13 @@
 - Added [AllGUD Tweaks (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50238)
 - Added [AllGud SE Azura Star Fix (2.3.4.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/48786)
 - Added [All Geared Up Derivative - JS Purses and Septims Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/44581)
+- Added [Rally's Honey Pot (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/27984)
 - Removed [Nether's Follower Framework]
 - Removed [Fixed Dragon Stalking Fix]
 - Removed [Enchantment Reload Fix SE]
 - Removed [Fluffy Snow Windhelm Bridge and Street Fix]
 - Removed [ElSopa HD - Dragonborn Skull Variants SE - 1K Dragonborn Skull Variant]
+- Removed [Hoeny Pot Special Edition]
 - Removed various UI mods in favour of paper UI
 
 **Fixes & Tweaks**:
