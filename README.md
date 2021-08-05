@@ -53,16 +53,24 @@ Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh 
 
 Download Size: ~70GB
 Install Size: ~100GB
-([see changelog for most recent sizes](CHANGELOG.md)]
+
+([see changelog for most recent sizes](CHANGELOG.md))
 
 Serenity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
 
-I made this list with my specs in mind and I am able to get 72FPS (capped so my GPU doesn't work harder than it needs to) in riverwood and whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
+[Xanza] I made this list with my specs in mind and I am able to get 72FPS (capped so my GPU doesn't work harder than it needs to) in riverwood and whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
 CPU: Ryzen 7 3700x
 GPU: EVGA RTX 3080 FTW3 Ultra
 RAM: 4x8 3200Mhz G-Skill RAM
 SSD: Crucial M1 1TB NVME SSD
+
+[Esvs] My specs are way behind of above, yet I do have 40~60fps at 1080p
+
+CPU: Intel Core i5-6600k @ 4.6GHz
+GPU: MSI GTX 1060 6GB OC
+RAM: 2x8GB 3200MHz
+SSD: MyMemory 256MB NVME
 
 ## Installation
 
@@ -283,6 +291,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
+- [Xanza](ixanza) - original creator of Serenity and author of ton of cool stuff!
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Phoenix from [The Phoenix Flavour](thephoenixflavour.com/) - Serenity is largely built upon her amazing guide
