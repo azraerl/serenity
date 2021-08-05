@@ -291,7 +291,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- [Xanza](ixanza) - original creator of Serenity and author of ton of cool stuff!
+- [Xanza](https://github.com/ixanza) - original creator of Serenity and author of ton of cool stuff!
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Phoenix from [The Phoenix Flavour](thephoenixflavour.com/) - Serenity is largely built upon her amazing guide
