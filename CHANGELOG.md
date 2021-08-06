@@ -131,6 +131,7 @@
 - Added [Enderal Font for Skyrim SE (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/2004)
 - Added [Scribes of Skyrim - a font extension (0.9.3)](https://www.nexusmods.com/skyrimspecialedition/mods/50008)
 - Added [SunHelm Survival - Compatibility Patches (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/41335)
+- Added [Requiem - Skills of the Scoundrel (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/48972)
 - Removed [Nether's Follower Framework]
 - Removed [Fixed Dragon Stalking Fix]
 - Removed [Enchantment Reload Fix SE]
