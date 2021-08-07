@@ -2,12 +2,12 @@
 
 ## Serenity 2 v1.5.0
 
-**Build at:** `05.08.2021 21:30`
+**Build at:** `07.08.2021 13:19`
 
 **Info**:
 
-- Download Size change: -12.7GB (Total: 55.5GB)
-- Install Size change: +1.6GB (Total: 96.0GB)
+- Download Size change: 0.0GB (Total: 68.2GB)
+- Install Size change: +2.6GB (Total: 97.0GB)
 
 **Mod Changes**:
 
