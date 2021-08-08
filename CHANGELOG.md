@@ -2,7 +2,7 @@
 
 ## Serenity 2 v1.5.1
 
-**Build at:** `08.08.2021 12:13`
+**Build at:** `08.08.2021 13:55`
 
 **Info**:
 
@@ -16,8 +16,8 @@
 - Removed [Dawnguard Map Markers]
 
 **Fixes & Tweaks**:
-- Duplicated Nords shall be fixed;
-- Supposedly game-save compatible unless certain Nord race picked.
+- Duplicated Nords shall be fixed - playable races cloning won't happen ever again;
+- Supposedly game-save compatible unless certain Nord race has been picked.
 
 ## Serenity 2 v1.5.0
 
