@@ -1,5 +1,23 @@
 # Changelog
 
+## Serenity 2 v1.5.0.1
+
+**Build at:** `?`
+
+**Info**:
+
+- Download Size change: ?
+- Install Size change: ?
+
+**Mod Changes**:
+- Added [Skyrim Priority SE - skse plugin(3.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50129)
+- Added [NPC AI Process Position Fix - SSE (4.05b)](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+- Added [Splashes Of Skyrim (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
+- Removed [Dawnguard Map Markers]
+
+**Fixes & Tweaks**:
+- Duplicated Nords shall be fixed.
+
 ## Serenity 2 v1.5.0
 
 **Build at:** `07.08.2021 13:19`
