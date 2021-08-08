@@ -51,8 +51,8 @@ Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh 
 
 ## System Requirements
 
-Download Size: ~70GB
-Install Size: ~100GB
+* Download Size: ~70GB (~13GB is copied from your Skyrim SE install)
+* Install Size: ~100GB
 
 ([see changelog for most recent sizes](CHANGELOG.md))
 
@@ -60,17 +60,17 @@ Serenity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM i
 
 [Xanza] I made this list with my specs in mind and I am able to get 72FPS (capped so my GPU doesn't work harder than it needs to) in riverwood and whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
-CPU: Ryzen 7 3700x
-GPU: EVGA RTX 3080 FTW3 Ultra
-RAM: 4x8 3200Mhz G-Skill RAM
-SSD: Crucial M1 1TB NVME SSD
+* CPU: Ryzen 7 3700x
+* GPU: EVGA RTX 3080 FTW3 Ultra
+* RAM: 4x8 3200Mhz G-Skill RAM
+* SSD: Crucial M1 1TB NVME SSD
 
 [Esvs] My specs are way behind of above, yet I do have 40~60fps at 1080p
 
-CPU: Intel Core i5-6600k @ 4.6GHz
-GPU: MSI GTX 1060 6GB OC
-RAM: 2x8GB 3200MHz
-SSD: MyMemory 256MB NVME
+* CPU: Intel Core i5-6600k @ 4.6GHz
+* GPU: MSI GTX 1060 6GB OC
+* RAM: 2x8GB 3200MHz
+* SSD: MyMemory 256MB NVME
 
 ## Installation
 
@@ -173,8 +173,10 @@ Requiem is the core mod behind Serenity. It overhauls the entire game with regar
 Serenity comes with a few modifications to Requiem. This includes but is not limited to:
 
 - Magic Tweaks via [Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- Thieving Tweaks via [Requiem - Skills of the Scoundrel](https://www.nexusmods.com/skyrimspecialedition/mods/48972)
 - Miscellaneous NPC Tweaks and NPC Vampire expansion via [Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Religious overhaul via [Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)
+- Humanoid races overhaul via [Requiem - Immersive Racial Traits](https://www.nexusmods.com/skyrimspecialedition/mods/47231)
 - Dragonborn Expansion is available through [Requiem - Dragonborn Patch](https://www.nexusmods.com/skyrimspecialedition/mods/34829)
 - Unarmed Enhancement from the mod [Requiem - Unarmed Combat Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
 - New Feats from [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
@@ -185,7 +187,7 @@ Serenity comes with a wide variety of new quest and encounters. A few are listed
 
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is a very large mod that shapes the way how you play the game. The museum is a very robust house mod with the ability to display almost every item in the game and also has an extensive mod support which is utilised to some extent in Serenity. Serenity also comes with a Requiem display room for it thanks to [pamposzek](https://www.nexusmods.com/skyrimspecialedition/mods/36998).
 
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250 fully voiced NPCs, 25+ followers, 15+ marriage candidates and 50+ quests to fully flesh out the world of Skyrim. Every hold will feel more lively with more NPCs walking and talking with each other. For Balance reasons,all follower recruitment dialog has been disabled until you complete the Dragon Rising quest
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250 fully voiced NPCs, 25+ followers, 15+ marriage candidates and 50+ quests to fully flesh out the world of Skyrim. Every hold will feel more lively with more NPCs walking and talking with each other.
 
 [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576?tab=files) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. Missives has been extended to Solstheim as well as Wyrmstooth.
 
@@ -199,7 +201,7 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 
 ### Followers
 
-[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. For balance reasons, all interaction dialog has been disabled until after the completion of Dragon Rising
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
@@ -239,6 +241,7 @@ Upon entering the game you will be greeted with a notification from the Curator'
 
 All the required MCM options have been automated for you. Enjoy the game or tweak the following to your liking:
 
+- A Matter of Time
 - iHud
 - AllGUD
 - SkyUI
@@ -264,7 +267,8 @@ If you have an ultrawide monitor (21:9), the UI will be off and look weird. You 
    4) Extended UI - Widescreen Fix
    5) Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
    6) SkyHud - High Resolution Widescreen Fix
-4) Install all of these mods, activate them and the plugins and let them load at the bottom. You should now have a working UI with widescreen support
+4) Re-install "Dear Diary" and "Dialogue Interface ReShaped" mods under Interface category with Widescreen option
+5) Install all of these mods, activate them and the plugins and let them load at the bottom. You should now have a working UI with widescreen support
 
 ### Tweaking the Game Settings
 
