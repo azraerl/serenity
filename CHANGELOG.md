@@ -1,5 +1,20 @@
 # Changelog
 
+## Serenity 2 v1.5.2
+
+**Build at:** `tbd`
+
+**Info**:
+
+- Download Size change: ? (68.21GB)
+- Install Size change: ? (97.02GB)
+
+**Mod Changes**:
+- Added [Flickering Sunlight Shadows Fix(1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
+- Added [Particle Lights for ENB - Nordic Ruins Candles (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
+- Added [Forget Spell (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+- Moved [Quick Loot RE (2.8.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21085) to optionals and disabled - has minor compatibility issues
+
 ## Serenity 2 v1.5.1
 
 **Build at:** `08.08.2021 13:55`
@@ -188,6 +203,11 @@
 - Update [Requiem - Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/43185) to use LibFire/LibMathf
 - ?Add [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
 - ?Add [Undeath - Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802)
+- Consider [The Grass Your Mother Warned About](https://www.nexusmods.com/skyrimspecialedition/mods/53064)
+- Consider [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723)
+- Add [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
+- Add [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
+- Add [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) - needs TG and Requiem MQ compatibility
 
 ## Serenity 2 v1.4.0
 
