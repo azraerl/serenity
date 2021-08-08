@@ -1,13 +1,13 @@
 # Changelog
 
-## Serenity 2 v1.5.0.1
+## Serenity 2 v1.5.1
 
-**Build at:** `?`
+**Build at:** `08.08.2021 12:13`
 
 **Info**:
 
-- Download Size change: ?
-- Install Size change: ?
+- Download Size change: +0.01GB (68.21GB)
+- Install Size change: +0.02GB (97.02GB)
 
 **Mod Changes**:
 - Added [Skyrim Priority SE - skse plugin(3.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/50129)
@@ -16,7 +16,8 @@
 - Removed [Dawnguard Map Markers]
 
 **Fixes & Tweaks**:
-- Duplicated Nords shall be fixed.
+- Duplicated Nords shall be fixed;
+- Supposedly game-save compatible unless certain Nord race picked.
 
 ## Serenity 2 v1.5.0
 
