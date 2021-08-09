@@ -2,7 +2,7 @@
 
 ## Serenity 2 v1.5.2
 
-**Build at:** `tbd`
+**Build at:** `09.08.2021 23:13`
 
 **Info**:
 - Download Size change: +0.04GB (68.25GB)
