@@ -19,4 +19,9 @@
 - Consider [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723)
 - Consider [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) - needs TG and Requiem MQ compatibility
 - Consider [Potema's Minion Fixlet](https://www.nexusmods.com/skyrimspecialedition/mods/51000)
+- Consider [Better Telekinesis](https://www.nexusmods.com/skyrimspecialedition/mods/42906)
+- Consider [The Elder Songs - Fanmade Music Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/27504) and/or [Fantasy Soundtrack Project SE](https://www.nexusmods.com/skyrimspecialedition/mods/5268)
+- [Animated Heavy Armory - DAR version with enchantments animations and patches](https://www.nexusmods.com/skyrimspecialedition/mods/51100)
+- [Saviors Pants](https://www.nexusmods.com/skyrimspecialedition/mods/14028)
+- [Realm of Lorkhan - Freeform Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/18223)
 
