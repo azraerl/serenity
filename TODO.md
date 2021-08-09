@@ -24,4 +24,4 @@
 - [Animated Heavy Armory - DAR version with enchantments animations and patches](https://www.nexusmods.com/skyrimspecialedition/mods/51100)
 - [Saviors Pants](https://www.nexusmods.com/skyrimspecialedition/mods/14028)
 - [Realm of Lorkhan - Freeform Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/18223)
-
+- [R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust](https://www.nexusmods.com/skyrimspecialedition/mods/22780)
