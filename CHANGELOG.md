@@ -5,7 +5,6 @@
 **Build at:** `tbd`
 
 **Info**:
-
 - Download Size change: ? (68.21GB)
 - Install Size change: ? (97.02GB)
 
@@ -13,7 +12,12 @@
 - Added [Flickering Sunlight Shadows Fix(1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
 - Added [Particle Lights for ENB - Nordic Ruins Candles (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
 - Added [Forget Spell (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
+- Added [Don't Stay in The Water (4.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
 - Moved [Quick Loot RE (2.8.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21085) to optionals and disabled - has minor compatibility issues
+
+**Fixes & Tweaks**:
+- Updated SunHelm MCM Automation to suppress SunHelm's Cannibalism on Bosmers - it duplicates Requiem feature (and feels broken in a few ways)
+- All the merged patches are now properly hidden to not clutter the view
 
 ## Serenity 2 v1.5.1
 
@@ -188,26 +192,6 @@
   - Serenity Vanilla: Vanilla XP
 - [Xanza] Replaced NFF with separate set of followers mods
 - [Xanza] Added set of Revisited dungeons, JK's mods and various mod updates
-
-## Stuff to consider for next version
-
-- Update [JK's Interiors Patch Collection (3.9.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
-- Update [Dwemer Gates Don't Reset (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
-- Update [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
-- Update [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
-- Update [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
-- Update [Bright Waterfall Fix for ENB (3.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
-- Update [Better Dynamic Snow SE (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
-- Update [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
-- Update [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
-- Update [Requiem - Static Skill Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/43185) to use LibFire/LibMathf
-- ?Add [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
-- ?Add [Undeath - Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802)
-- Consider [The Grass Your Mother Warned About](https://www.nexusmods.com/skyrimspecialedition/mods/53064)
-- Consider [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723)
-- Add [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
-- Add [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
-- Add [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) - needs TG and Requiem MQ compatibility
 
 ## Serenity 2 v1.4.0
 
