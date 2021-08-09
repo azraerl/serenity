@@ -8,7 +8,6 @@
 - Update [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Update [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 - Update [Bright Waterfall Fix for ENB (3.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
-- Update [Better Dynamic Snow SE (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
 - Update [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
 - Update [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Update [Better Dynamic Snow SE (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/9121)
