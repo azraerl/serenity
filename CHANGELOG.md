@@ -5,8 +5,8 @@
 **Build at:** `tbd`
 
 **Info**:
-- Download Size change: ? (68.21GB)
-- Install Size change: ? (97.02GB)
+- Download Size change: +0.04GB (68.25GB)
+- Install Size change: +0.03GB (97.05GB)
 
 **Mod Changes**:
 - Added [Flickering Sunlight Shadows Fix(1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
