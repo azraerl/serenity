@@ -181,6 +181,15 @@ Serenity comes with a few modifications to Requiem. This includes but is not lim
 - Unarmed Enhancement from the mod [Requiem - Unarmed Combat Enhancement](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
 - New Feats from [Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
 
+### Leveling overhaul
+
+Note that Serenity now includes 2 profiles, select the one which you like. Remember, they are **not** game save compatible:
+
+- `Serenity` profile includes [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), [R-SSL](https://www.nexusmods.com/skyrimspecialedition/mods/43185) and [Requiem-Experience](https://github.com/azraerl/Requiem-Experience/)
+  - **Character levels**: you have to fight enemies and complete quests in order to gain experience and character levels. Note that followers will take equal share of combat experience, e.g. with 1 follower you'll receive about 50% of it.
+  - **Skill levels**: each *character* level grants you certain amount of Skill Points, which you can spend on skills after you have slept (Morrowind-like)
+- `Serenity - Vanilla` profile, as name suggests, leaves vanilla Skyrim levelling in place.
+
 ### Quest and Encounter Mods
 
 Serenity comes with a wide variety of new quest and encounters. A few are listed below.
@@ -229,9 +238,11 @@ If this Modlist receives an update please check the Changelog before doing anyth
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!\*
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+\* *Note, you can preserve character presets (and even modifications) by adding `[NoDelete] ` tag to your mod. For example, `[NoDelete] Khinara Jade SE - RaceMenu Preset` such mod will not be deleted by Wabbajack overwrite/upgrade.*
 
 ## Creating your Character
 
