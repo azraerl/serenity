@@ -1,5 +1,4 @@
 ## Stuff to consider for next major version
-
 - Update [JK's Interiors Patch Collection (3.9.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Add [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
 - Add [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
