@@ -13,6 +13,7 @@
 - Added [Particle Lights for ENB - Nordic Ruins Candles (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52335)
 - Added [Forget Spell (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
 - Added [Don't Stay in The Water (4.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
+- Added [Scallions of Skyrim - High Polygon Leeks (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53205)
 - Moved [Quick Loot RE (2.8.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21085) to optionals and disabled - has minor compatibility issues
 
 **Fixes & Tweaks**:
