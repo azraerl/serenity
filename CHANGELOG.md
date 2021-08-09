@@ -14,11 +14,13 @@
 - Added [Forget Spell (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/51125)
 - Added [Don't Stay in The Water (4.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52164)
 - Added [Scallions of Skyrim - High Polygon Leeks (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53205)
+- Added [Font Overhaul - Natural Typefaces for Skyrim -- FONTS (2.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/2880)
 - Moved [Quick Loot RE (2.8.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21085) to optionals and disabled - has minor compatibility issues
 
 **Fixes & Tweaks**:
 - Updated SunHelm MCM Automation to suppress SunHelm's Cannibalism on Bosmers - it duplicates Requiem feature (and feels broken in a few ways)
 - All the merged patches are now properly hidden to not clutter the view
+- Simple Taxes font issue shall be resolved
 
 ## Serenity 2 v1.5.1
 
