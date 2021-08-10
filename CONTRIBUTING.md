@@ -13,11 +13,11 @@ Contributing to the Modlist itself is straight forward. You can have a [Feature 
 
 ### Issues
 
-Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](https://github.com/ixanza/xanzas_lotd/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
+Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](https://github.com/azraerl/serenity/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
 
 ### CharGen Presets
 
-You can share your created Character Preset and I can include it in the Modlist if you want. Head over to [this](https://github.com/ixanza/xanzas_lotd/issues) page and click `Add CharGen Preset`.
+You can share your created Character Preset and I can include it in the Modlist if you want. Head over to [this](https://github.com/azraerl/serenity/issues) page and click `Add CharGen Preset`.
 
 For your preset to be added to the Modlist there are certain requirements it has to meet:
 
