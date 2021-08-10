@@ -18,7 +18,7 @@
 - Moved [Quick Loot RE (2.8.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21085) to optionals and disabled - has minor compatibility issues
 
 **Fixes & Tweaks**:
-- Updated SunHelm MCM Automation to suppress SunHelm's Cannibalism on Bosmers - it duplicates Requiem feature (and feels broken in a few ways)
+- ~~Updated SunHelm MCM Automation to suppress SunHelm's Cannibalism on Bosmers - it duplicates Requiem feature (and feels broken in a few ways)~~ Need an extra care as SunHelm compulsively enables it for Bosmers
 - All the merged patches are now properly hidden to not clutter the view
 - Simple Taxes font issue shall be resolved
 
