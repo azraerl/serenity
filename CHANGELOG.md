@@ -1,5 +1,23 @@
 # Changelog
 
+## Serenity 2 v.?
+
+
+**Build at:** `?.08.2021 ?`
+
+**Info**:
+- Download Size change: ? (68.25GB)
+- Install Size change: ? (97.05GB)
+
+**Mod Changes**:
+- Added [ElSopa - Iron Weapons Redone SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52605)
+- Added [Skyrim Reputation Improved (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Added [Banshee -Wisp Mother Sounds Rework-](https://www.nexusmods.com/skyrimspecialedition/mods/52317)
+- Replaced [The Paarthurnax Resolution] with [Paarthurnax - Quest Expansion (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+
+**Fixes & Tweaks**:
+- SunHelm Cannibalism ?
+
 ## Serenity 2 v1.5.2
 
 **Build at:** `09.08.2021 23:13`
