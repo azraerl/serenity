@@ -13,7 +13,7 @@
 - Added [ElSopa - Iron Weapons Redone SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52605)
 - Added [Skyrim Reputation Improved (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 - Added [Banshee -Wisp Mother Sounds Rework-](https://www.nexusmods.com/skyrimspecialedition/mods/52317)
-- Replaced [The Paarthurnax Resolution] with [Paarthurnax - Quest Expansion (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
+- Replaced [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766) with [Paarthurnax - Quest Expansion (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
 
 **Fixes & Tweaks**:
 - SunHelm Cannibalism ?
