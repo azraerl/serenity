@@ -3,11 +3,11 @@
 ## Serenity 2 v1.5.3
 
 
-**Build at:** `?.08.2021 ?`
+**Build at:** `12.08.2021 00:33`
 
 **Info**:
-- Download Size change: ? (68.25GB)
-- Install Size change: ? (97.05GB)
+- Download Size change: +0.05GB (68.3GB)
+- Install Size change: +0.08GB (97.17GB)
 
 **Mod Changes**:
 - Added [ElSopa - Iron Weapons Redone SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52605)
