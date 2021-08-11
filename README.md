@@ -269,17 +269,19 @@ Included in Serenity is SunHelm Survival. It is already tweaked for Requiem Comp
 
 If you have an ultrawide monitor (21:9), the UI will be off and look weird. You will want to install a set of mods meant to help with widescreen monitors
 
-1) Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
-2) Grab Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080 from the main files section
-3) Under Optional File grab
-   1) Better Dialogue Control Widescreen Fix
-   2) Better MessageBox Control Widescreen Fix
-   3) Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
-   4) Extended UI - Widescreen Fix
-   5) Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
-   6) SkyHud - High Resolution Widescreen Fix
-4) Re-install "Dear Diary" and "Dialogue Interface ReShaped" mods under Interface category with Widescreen option
-5) Install all of these mods, activate them and the plugins and let them load at the bottom. You should now have a working UI with widescreen support
+* Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
+* Grab Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080 from the main files section
+* Under Optional File grab
+   * Better Dialogue Control Widescreen Fix
+   * Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
+   * Extended UI - Widescreen Fix
+   * Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
+   * SkyHud - High Resolution Widescreen Fix
+* Install all of these mods, activate them and the plugins and let them load at the bottom
+* Re-install "Dear Diary" and "Dialogue Interface ReShaped" mods under Interface category with Widescreen option
+* Disable "Paper HUD" - sadly this does not have ultrawide support (alternatively you can edit its configs - and share them)
+* You should now have a working UI with widescreen support
+
 
 ### Tweaking the Game Settings
 
