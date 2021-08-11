@@ -15,13 +15,14 @@
 - Added [Banshee -Wisp Mother Sounds Rework-](https://www.nexusmods.com/skyrimspecialedition/mods/52317)
 - Replaced [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766) with [Paarthurnax - Quest Expansion (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
 - Updated [Flickering Sunlight Shadows Fix(1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
-- Removed [No More Laser-Printed Book] - was already replaced by FONTS in v1.5.2
+- Removed [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462) - superseeded by FONTS in v1.5.2
 - Switched [Legacy of the Dragonborn SSE - The.Curators Companion (6.0.4)](https://github.com/Ic0nic0de/TheCuratorsCompanion) to github version
-- Switched bunch of github links to not die over time
+- Switched bunch of github links so they would not die over time, switched MEGA uploads to CDN
 
 **Fixes & Tweaks**:
-- SunHelm Cannibalism - disabled ability to enable it MCM, disabled auto-enabling it for Bosmers.
-- Paper World Map issue when you around Whiterun is hotfixed.
+- SunHelm Bosmer Cannibalism: disabled ability to enable it via MCM and disabled auto-enabling feature. This is an ultimate fix.
+- Paper World Map: hotfixed display issue when you around Whiterun.
+- Immersive Divine Blessings & Crime stats: Bugfixed an issue that many of effects would not follow Crime stat ignores introduced in v1.5.0. To clarify, before this fix crime stats were not punished (as expected), however they would also silently disable part of buffs.
 
 ## Serenity 2 v1.5.2
 
