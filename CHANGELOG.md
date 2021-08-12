@@ -12,11 +12,11 @@
 **Mod Changes**:
 - Added [ElSopa - Iron Weapons Redone SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52605)
 - Added [Skyrim Reputation Improved (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
-- Added [Banshee -Wisp Mother Sounds Rework-](https://www.nexusmods.com/skyrimspecialedition/mods/52317)
+- Added [Banshee -Wisp Mother Sounds Rework- (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52317)
 - Replaced [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766) with [Paarthurnax - Quest Expansion (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/51711)
 - Updated [Flickering Sunlight Shadows Fix(1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/53441)
 - Removed [No More Laser-Printed Book](https://www.nexusmods.com/skyrimspecialedition/mods/462) - superseeded by FONTS in v1.5.2
-- Switched [Legacy of the Dragonborn SSE - The.Curators Companion (6.0.4)](https://github.com/Ic0nic0de/TheCuratorsCompanion) to github version
+- Switched [Legacy of the Dragonborn SSE - The Curators Companion (6.0.4)](https://github.com/Ic0nic0de/TheCuratorsCompanion) to github version
 - Switched bunch of github links so they would not die over time, switched MEGA uploads to CDN
 
 **Fixes & Tweaks**:
