@@ -16,9 +16,16 @@
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
-- ENB Night Eye fix: included proper ini which should resolve the issue, added steps to README for when ENB is disabled.
+
 
 > RFTI, Synthesis
+
+## Serenity 2 v1.5.3.1
+
+**Build at:** `12.08.2021 22:05`
+
+**Fixes & Tweaks**:
+- ENB Night Eye fix: included proper ini which should resolve the issue, added steps to README for when ENB is disabled.
 
 ## Serenity 2 v1.5.3
 
