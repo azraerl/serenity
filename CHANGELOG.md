@@ -1,7 +1,26 @@
 # Changelog
 
-## Serenity 2 v1.5.3
+## Serenity 2 v1.6.0
 
+
+**Build at:** `?`
+
+**Info**:
+- Download Size change: ?GB (68.3GB)
+- Install Size change: ?GB (97.17GB)
+
+**Mod Changes**:
+- Added [Pants for Savior's Hide (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/25131)
+- Updated [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+
+**Fixes & Tweaks**:
+- R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
+- ENB Night Eye fix: included proper ini which should resolve the issue, added steps to README for when ENB is disabled.
+
+> RFTI, Synthesis
+
+## Serenity 2 v1.5.3
 
 **Build at:** `12.08.2021 00:33`
 
