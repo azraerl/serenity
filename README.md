@@ -162,6 +162,12 @@ A few other ENB suggestions are:
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 - [Re-engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 
+**If you want to disable ENB:**
+- Shift+F12 in game disables ENB on the fly, useful for FPS comparison with/without
+- Removing ``d3d11.dll`` and ``d3dcompiler_46e.dll`` from `Stock Game` folder would disable ENB permanently
+- Removing ``dxgi.dll`` from `Stock Game` folder would disable ReShade permanently
+- If you would play without ENB, you also have to find NightEyeENBFix.esp on right panel and disable it
+
 ## Noteworthy Mods
 
 ### Requiem
