@@ -21,7 +21,7 @@
 - [ ] Consider [Better Telekinesis](https://www.nexusmods.com/skyrimspecialedition/mods/42906)
 - [ ] Consider [The Elder Songs - Fanmade Music Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/27504) and/or [Fantasy Soundtrack Project SE](https://www.nexusmods.com/skyrimspecialedition/mods/5268)
 - [ ] Consider [Animated Heavy Armory - DAR version with enchantments animations and patches](https://www.nexusmods.com/skyrimspecialedition/mods/51100)
-- [ ] Add [Saviors Pants](https://www.nexusmods.com/skyrimspecialedition/mods/14028)
+- [X] Add [Saviors Pants](https://www.nexusmods.com/skyrimspecialedition/mods/14028)
 - [ ] Replace ASLAL with [Realm of Lorkhan - Freeform Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/18223)
 - [ ] Consider [R.A.S.S. Rain Ash And Snow Shaders - Wet Frost Cold Dust](https://www.nexusmods.com/skyrimspecialedition/mods/22780)
 - [ ] Replace standalone Revisited Dungeons with pack
