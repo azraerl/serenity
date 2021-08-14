@@ -20,6 +20,8 @@
 - Updated [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Updated [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Updated [Bright Waterfall Fix for ENB (3.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+- Updated [Requiem - Special Feats (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
+- Added [Fixed Mesh Lighting (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
