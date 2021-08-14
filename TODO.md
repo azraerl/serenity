@@ -3,10 +3,11 @@
 - [X] Add [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
 - [X] Add [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
 
+
 - [X] Update [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - [X] Update [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
-- [ ] Update [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
-- [ ] Update [Bright Waterfall Fix for ENB (3.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+- [X] Update [Bright Waterfall Fix for ENB (3.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
+
 
 - [ ] Consider [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
 - [ ] Consider [Undeath - Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802)
