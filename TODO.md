@@ -1,10 +1,10 @@
 ## Stuff to consider for next major version
-- [ ] Update [JK's Interiors Patch Collection (3.9.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
-- [ ] Add [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
-- [ ] Add [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
+- [X] Update [JK's Interiors Patch Collection (3.9.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- [X] Add [JK's Mistveil Keep](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
+- [X] Add [JK's The Temple of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
 
-- [ ] Update [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
-- [ ] Update [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- [X] Update [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- [X] Update [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - [ ] Update [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 - [ ] Update [Bright Waterfall Fix for ENB (3.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
