@@ -19,6 +19,7 @@
 - Added [JK's Silver-Blood Inn (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53554)
 - Updated [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Updated [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Bright Waterfall Fix for ENB (3.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
