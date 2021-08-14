@@ -13,6 +13,12 @@
 - Added [Pants for Savior's Hide (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/25131)
 - Updated [Assorted mesh fixes (0.22)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Unique Skulls HD - SE 2K (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52073)
+- Updated [JK's Interiors Patch Collection (3.11)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Added [JK's Mistveil Keep (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
+- Added [JK's The Temple of Mara (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/52724)
+- Added [JK's Silver-Blood Inn (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53554)
+- Updated [Requiem - small tweaks SE - NPC Statefix (0.2j)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- Updated [Requiem - small tweaks SE - Vampire Collection (0.3d)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
