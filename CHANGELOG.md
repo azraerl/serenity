@@ -25,9 +25,12 @@
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
-
-
-> RFTI, Synthesis
+- Konahriks Accoutrements resolved inconsistency with Dovah Sonaak looks.
+- Fixed a few improper records:
+  - R-IDB-disabled: Rueful Axe, Vigilant Sword; minor WACCF inconsistencies;
+  - LOTD: WeatherWard Circlet description fixed; Skullcrusher speed toned down a bit;
+  - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
+  - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
 
 ## Serenity 2 v1.5.3.1
 
