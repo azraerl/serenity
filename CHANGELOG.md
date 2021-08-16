@@ -22,6 +22,11 @@
 - Updated [Bright Waterfall Fix for ENB (3.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/37956)
 - Updated [Requiem - Special Feats (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
 - Added [Fixed Mesh Lighting (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+- Added [No Killmoves - No Killcams - No Killbites SE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/13395)
+- Added [Solstheim Objects SMIMed - High Poly Dark Elf Furniture (0.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53779)
+- Added [Better Combat Escape - SSE (0.83)](https://www.nexusmods.com/skyrimspecialedition/mods/43936)
+- Updated [Scrambled Bugs (12)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Added [Face Discoloration Fix (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42441) - not required due to pre-gen data, but a pre-caution
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
