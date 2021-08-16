@@ -27,6 +27,7 @@
 - Added [Better Combat Escape - SSE (0.83)](https://www.nexusmods.com/skyrimspecialedition/mods/43936)
 - Updated [Scrambled Bugs (12)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Added [Face Discoloration Fix (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42441) - not required due to pre-gen data, but a pre-caution
+- Added [Headhunter - Bounties Redone (1.20)](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
