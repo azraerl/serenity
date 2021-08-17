@@ -40,7 +40,10 @@
   - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
   - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
 - NECR: Multiple notification upon character creation shall be fixed.
-- XP/SSL: modified combat XP curve, SP cost curve, added XP for specific locations discovery.
+- `Serenity` profile (XP/SSL):
+  - Modified combat XP curve: toned down higher-level XP outcomes; more `Boss` NPC now have own XP values;
+  - Modified SP cost curve - from 3/5/7/9 skill increase costs changed to 3/5/8/13, hence higher levels require more *dedication*;
+  - Added XP for specific locations discovery, not too much and nothing for peaceful looking location types.
 
 ## Serenity 2 v1.5.3.1
 
