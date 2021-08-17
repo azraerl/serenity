@@ -32,6 +32,7 @@
 - Included part of [Blackreach Edits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/9110)
 - Added [Better Dynamic Snow v2 Synthesis Patcher](https://github.com/SteveTownsend/BDSv2Patcher)
 - Added [Amulets Show On Everything Synthesis Patcher](https://github.com/ixanza/AmuletsShowOnEverything)
+- Added [Nilheim - Misc Quest Expansion (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53792)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
