@@ -37,6 +37,7 @@
   - LOTD: WeatherWard Circlet description fixed; Skullcrusher speed toned down a bit;
   - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
   - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
+- NECR: Multiple notification upon character creation shall be fixed.
 
 ## Serenity 2 v1.5.3.1
 
