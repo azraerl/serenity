@@ -23,6 +23,8 @@
     - [ENB](#enb)
   - [Noteworthy Mods](#noteworthy-mods)
     - [Requiem](#requiem)
+    - [Requiem modifications](#requiem-modifications)
+    - [Leveling overhaul](#leveling-overhaul)
     - [Quest and Encounter Mods](#quest-and-encounter-mods)
     - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
     - [Followers](#followers)
@@ -175,6 +177,8 @@ A few other ENB suggestions are:
 [Requiem](https://www.nexusmods.com/skyrim/mods/19281) is a project with the goal of turning Skyrim into a better roleplaying experience by making game more immersive, semi-realistic and coherent, with the tend to find a compromiss between old school mechanics and more modern approaches.
 
 Requiem is the core mod behind Serenity. It overhauls the entire game with regards to Races, Combat, Standing Stones, Dragons, Perks, Difficulty and much much more. Requiem offers an unleveled world in where everything is static and doesn't level with the player.
+
+### Requiem modifications
 
 Serenity comes with a few modifications to Requiem. This includes but is not limited to:
 
