@@ -30,6 +30,8 @@
 - Added [Headhunter - Bounties Redone (1.20)](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
 - Added [Better Blackreach Clutter (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/40045)
 - Included part of [Blackreach Edits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/9110)
+- Added [Better Dynamic Snow v2 Synthesis Patcher](https://github.com/SteveTownsend/BDSv2Patcher)
+- Added [Amulets Show On Everything Synthesis Patcher](https://github.com/ixanza/AmuletsShowOnEverything)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
