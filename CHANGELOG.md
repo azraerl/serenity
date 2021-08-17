@@ -28,6 +28,8 @@
 - Updated [Scrambled Bugs (12)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Added [Face Discoloration Fix (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42441) - not required due to pre-gen data, but a pre-caution
 - Added [Headhunter - Bounties Redone (1.20)](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
+- Added [Better Blackreach Clutter (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/40045)
+- Included part of [Blackreach Edits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/9110)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
@@ -38,6 +40,7 @@
   - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
   - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
 - NECR: Multiple notification upon character creation shall be fixed.
+- XP/SSL: modified combat XP curve, SP cost curve, added XP for specific locations discovery.
 
 ## Serenity 2 v1.5.3.1
 
