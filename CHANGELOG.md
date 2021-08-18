@@ -39,6 +39,8 @@
 - Added [Leaps of Faith - A Misc Quest (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
 - Added [Immersive Interactions - Animated Actions (1.35)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
 - Added [Vanilla Script (micro)Optimizations (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
+- Added [Animated Static Reload Fix (1.01)](https://www.nexusmods.com/skyrimspecialedition/mods/53761)
+- Updated [Requiem - Resist and Regen Tweak (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
