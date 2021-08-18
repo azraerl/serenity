@@ -34,6 +34,9 @@
 - Added [Amulets Show On Everything Synthesis Patcher](https://github.com/ixanza/AmuletsShowOnEverything)
 - Added [Nilheim - Misc Quest Expansion (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53792)
 - Added [Whiterun Watchtower Doesn't Start Broken (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49305)
+- Added [BA Bard Songs (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
+- Added [Skyrim's Got Talent - Improve As a Bard (1.22)](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
+- Added [Leaps of Faith - A Misc Quest (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
