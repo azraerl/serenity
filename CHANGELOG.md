@@ -38,6 +38,7 @@
 - Added [Skyrim's Got Talent - Improve As a Bard (1.22)](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
 - Added [Leaps of Faith - A Misc Quest (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
 - Added [Immersive Interactions - Animated Actions (1.35)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Added [Vanilla Script (micro)Optimizations (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
