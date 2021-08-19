@@ -37,16 +37,17 @@
 - Added [BA Bard Songs (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
 - Added [Skyrim's Got Talent - Improve As a Bard (1.22)](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
 - Added [Leaps of Faith - A Misc Quest (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
-- Added [Immersive Interactions - Animated Actions (1.35)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Added [Immersive Interactions - Animated Actions (1.36)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
 - Added [Vanilla Script (micro)Optimizations (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
 - Added [Animated Static Reload Fix (1.01)](https://www.nexusmods.com/skyrimspecialedition/mods/53761)
 - Updated [Requiem - Resist and Regen Tweak (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+- Updated [Skyrim Reputation Improved (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
 - Konahriks Accoutrements resolved inconsistency with Dovah Sonaak looks.
 - Fixed a few improper records:
-  - R-IDB-disabled: Rueful Axe, Vigilant Sword; minor WACCF inconsistencies;
+  - R-IDB-disabled: Rueful Axe, Vigilant Sword; minor WACCF inconsistencies; paper world map conflicts;
   - LOTD: WeatherWard Circlet description fixed; Skullcrusher speed toned down a bit;
   - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
   - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
