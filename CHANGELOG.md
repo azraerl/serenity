@@ -42,6 +42,7 @@
 - Added [Animated Static Reload Fix (1.01)](https://www.nexusmods.com/skyrimspecialedition/mods/53761)
 - Updated [Requiem - Resist and Regen Tweak (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - Updated [Skyrim Reputation Improved (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Updated [Requiem - Static Skill Leveling (Experience Mod Add-on) (2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
@@ -58,7 +59,8 @@
 - `Serenity` profile (XP/SSL):
   - Modified combat XP curve: toned down higher-level XP outcomes; more `Boss` NPC now have own XP values;
   - Modified SP cost curve - from 3/5/7/9 skill increase costs changed to 3/5/8/13, hence higher levels require more *dedication*;
-  - Added XP for specific locations discovery, not too much and nothing for peaceful looking location types.
+  - Added XP for specific locations discovery, not too much and nothing for peaceful looking location types;
+  - Uploaded above changes to Requiem-Experience and Requiem-StaticSkillLeveling
 
 ## Serenity 2 v1.5.3.1
 
