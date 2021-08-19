@@ -51,8 +51,9 @@
   - LOTD: WeatherWard Circlet description fixed; Skullcrusher speed toned down a bit;
   - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
   - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
-- R-EG: Realigned Destruction Infusion to Novice for early Spellblades support.
+- R-EG: Realigned Destruction Infusion to Novice for early Spellblades support; subtly realigned Illusion/Conjuration apprentice spell choices.
 - R-SF: Assigned various spell choices to Unskilled Spellcasting perk.
+- Darkvision/ENB - 50% magnitude replaced with reduced duration, which elevated by empower.
 - NECR: Multiple notification upon character creation shall be fixed.
 - `Serenity` profile (XP/SSL):
   - Modified combat XP curve: toned down higher-level XP outcomes; more `Boss` NPC now have own XP values;
