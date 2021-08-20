@@ -158,6 +158,8 @@ Serenity comes with [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/
 
 If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
+** **Remember to disable NightEyeENBFix.esp on right panel if you're swapping away from Rudy ENB - otherwise you'll see red tint** **
+
 A few other ENB suggestions are:
 
 - [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506)
