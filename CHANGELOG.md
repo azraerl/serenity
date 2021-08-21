@@ -44,6 +44,7 @@
 - Updated [Skyrim Reputation Improved (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 - Updated [Requiem - Static Skill Leveling (Experience Mod Add-on) (2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
 - Added [Requiem - Weapons and Armor Redone (WAR) (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+- Added [College of Winterhold Quest Start Fixes (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
 
 **Fixes & Tweaks**:
 - R-IDB: Tweaked Hircine blessing to decouple Totem from Ring/Hide.
@@ -52,7 +53,8 @@
   - R-IDB-disabled: Rueful Axe, Vigilant Sword; minor WACCF inconsistencies; paper world map conflicts;
   - LOTD: WeatherWard Circlet description fixed; Skullcrusher speed toned down a bit;
   - R-EG: Charged Nova description fixed; Mark&Recall now properly Alteration;
-  - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast.
+  - R-IR: Otherwordly Phantasms now again enable Frenzy Sphere dual cast;
+  - R-IDB: Mara's Warmth *should not* trigger hostility anymore from patrols.
 - R-EG: Realigned Destruction Infusion to Novice for early Spellblades support; subtly realigned Illusion/Conjuration apprentice spell choices.
 - R-SF: Assigned various spell choices to Unskilled Spellcasting perk.
 - Darkvision/ENB - 50% magnitude replaced with reduced duration, which elevated by empower.
