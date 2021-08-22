@@ -250,7 +250,7 @@ If this Modlist receives an update please check the Changelog before doing anyth
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!\*
+This means **screenshots** and **presets** you have created, as well as **custom settings** and any **additional mods** you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched\*
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
