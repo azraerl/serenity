@@ -1,7 +1,7 @@
 # Changelog
 
 
-## Serenity 2 v1.6.1
+## Serenity 2 v1.6.0.1
 
 **Build at:** `23.08.2021 00:42`
 
