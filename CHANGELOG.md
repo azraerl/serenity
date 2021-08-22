@@ -6,8 +6,8 @@
 **Build at:** `?`
 
 **Info**:
-- Download Size change: ?GB (68.3GB)
-- Install Size change: ?GB (97.17GB)
+- Download Size change: -0.09GB (68.21GB)
+- Install Size change: -0.14GB (97.03GB)
 
 **Mod Changes**:
 - Added [Pants for Savior's Hide (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/25131)
