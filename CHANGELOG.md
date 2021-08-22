@@ -3,7 +3,7 @@
 ## Serenity 2 v1.6.0
 
 
-**Build at:** `?`
+**Build at:** `22.08.2021 11:49`
 
 **Info**:
 - Download Size change: -0.09GB (68.21GB)
