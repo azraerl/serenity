@@ -1,7 +1,13 @@
 # Changelog
 
-## Serenity 2 v1.6.0
 
+## Serenity 2 v1.6.1
+
+**Build at:** `23.08.2021 00:42`
+
+- Hotfix to re-add lost ReShade presets.
+
+## Serenity 2 v1.6.0
 
 **Build at:** `22.08.2021 11:49`
 
