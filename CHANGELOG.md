@@ -1,11 +1,12 @@
 # Changelog
 
 
-## Serenity 2 v1.6.0.1
+## Serenity 2 v1.6.0.2
 
-**Build at:** `23.08.2021 00:42`
+**Build at:** `23.08.2021 08:42`
 
-- Hotfix to re-add lost ReShade presets.
+- Lost ReShade presets have been re-added to the list;
+- Static Skill Levelling weird behaviour shall be gone.
 
 ## Serenity 2 v1.6.0
 
