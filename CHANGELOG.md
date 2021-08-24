@@ -12,7 +12,7 @@
 - Updated [Skyrim Reputation Improved (1.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 
 **Fixes & Tweaks**:
-- Sunfire (and bunch of similar spells): removed lingering sound effect on impact location;
+- Sunfire (and bunch of similar spells): removed lingering sound effect on impact location --- credits to Fornication for hints;
 - R-SSL: fixed scripting issue which could lead to inability to incrase skill levels (apart from spam-click);
 - Campfire: fixed broken menu, buttons are no longer shifted.
 
