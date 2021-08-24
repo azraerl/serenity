@@ -1,5 +1,20 @@
 # Changelog
 
+## Serenity 2 v1.6.1
+
+**Build at:** `?.08.2021 ?`
+
+**Info**:
+- Download Size change: -?GB (68.21GB)
+- Install Size change: -?GB (97.03GB)
+
+**Mod Changes**:
+- Updated [Skyrim Reputation Improved (1.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+
+**Fixes & Tweaks**:
+- Sunfire (and bunch of similar spells): removed lingering sound effect on impact location;
+- R-SSL: fixed scripting issue which could lead to inability to incrase skill levels (apart from spam-click);
+- Campfire: fixed broken menu, buttons are no longer shifted.
 
 ## Serenity 2 v1.6.0.2
 
