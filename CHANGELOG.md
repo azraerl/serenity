@@ -10,11 +10,15 @@
 
 **Mod Changes**:
 - Updated [Skyrim Reputation Improved (1.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Updated [Requiem - Immersive Racial Traits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47231)
+- Updated [Requiem - Static Skill Leveling (Experience Mod Add-on) (2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
 
 **Fixes & Tweaks**:
 - Sunfire (and bunch of similar spells): removed lingering sound effect on impact location --- credits to Fornication for hints;
 - R-SSL: fixed scripting issue which could lead to inability to incrase skill levels (apart from spam-click);
-- Campfire: fixed broken menu, buttons are no longer shifted.
+- Campfire: fixed broken menu, buttons are no longer shifted;
+- [~] Campfire: backpacks with divine amulets integrated into R-IDB, diverged bonuses adjusted and curses added - carry weight reduced by a bit;
+- [~] LotD: backpacks carry weight increased by a bit - to compensate lack of divine bonuses and justify alternative bulkier looks.
 
 ## Serenity 2 v1.6.0.2
 
