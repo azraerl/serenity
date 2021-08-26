@@ -12,6 +12,11 @@
 - Updated [Skyrim Reputation Improved (1.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 - Updated [Requiem - Immersive Racial Traits (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47231)
 - Updated [Requiem - Static Skill Leveling (Experience Mod Add-on) (2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
+- Added [Campfire Backpack HD (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/34516)
+- Updated [powerofthree's Papyrus Extender (4.5.1)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Leaps of Faith - A Misc Quest (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
+- Updated [NPC AI Process Position Fix - SSE (4.05c)](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+
 
 **Fixes & Tweaks**:
 - Sunfire (and bunch of similar spells): removed lingering sound effect on impact location --- credits to Fornication for hints;
