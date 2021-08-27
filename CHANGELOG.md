@@ -19,6 +19,7 @@
 - Added [Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version (1.35)](https://www.nexusmods.com/skyrimspecialedition/mods/53745)
 - Added optional [Auto Input Switch (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54309)
 - Moved to optional [Better Combat Escape - SSE (0.83)](https://www.nexusmods.com/skyrimspecialedition/mods/43936) - conflicts with interior chase
+- Updated [ENB Series SkyrimSE (0.462)](http://enbdev.com/mod_tesskyrimse_v0462.htm)
 
 **Fixes & Tweaks**:
 - Sunfire (and bunch of similar spells): removed lingering sound effect on impact location --- credits to Fornication for hints;
