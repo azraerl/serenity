@@ -16,14 +16,14 @@
 - Updated [powerofthree's Papyrus Extender (4.5.1)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 - Updated [Leaps of Faith - A Misc Quest (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53074)
 - Updated [NPC AI Process Position Fix - SSE (4.05c)](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
-
+- Added [Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version (1.35)](https://www.nexusmods.com/skyrimspecialedition/mods/53745)
 
 **Fixes & Tweaks**:
 - Sunfire (and bunch of similar spells): removed lingering sound effect on impact location --- credits to Fornication for hints;
 - R-SSL: fixed scripting issue which could lead to inability to incrase skill levels (apart from spam-click);
 - Campfire: fixed broken menu, buttons are no longer shifted;
-- [~] Campfire: backpacks with divine amulets integrated into R-IDB, diverged bonuses adjusted and curses added - carry weight reduced by a bit;
-- [~] LotD: backpacks carry weight increased by a bit - to compensate lack of divine bonuses and justify alternative bulkier looks.
+- Campfire: backpacks with divine amulets integrated into R-IDB, diverged bonuses adjusted (halved) and curses added (no greater blessing this way);
+- LotD: backpacks carry weight increased by a bit - to compensate lack of divine bonuses and justify alternative bulkier looks.
 
 ## Serenity 2 v1.6.0.2
 
