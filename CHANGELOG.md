@@ -2,11 +2,11 @@
 
 ## Serenity 2 v1.6.1
 
-**Build at:** `?.08.2021 ?`
+**Build at:** `28.08.2021 10:00`
 
 **Info**:
-- Download Size change: -?GB (68.21GB)
-- Install Size change: -?GB (97.03GB)
+- Download Size change: +0.04GB (68.25GB)
+- Install Size change: +0.08GB (97.11GB)
 
 **Mod Changes**:
 - Updated [Skyrim Reputation Improved (1.3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
