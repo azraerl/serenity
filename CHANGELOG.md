@@ -32,6 +32,8 @@
 - R-IDB: fixed Talos blessing bonus for destroy DB being dependant on random event (which gives own bonus anyway);
 - FONTS: thrown away a few fonts due to bad readability.
 
+- *forgot to mention* Ebony Warrior XP now unique and corresponds his level.
+
 ## Serenity 2 v1.6.0.2
 
 **Build at:** `23.08.2021 08:42`
