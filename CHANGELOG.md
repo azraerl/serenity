@@ -10,6 +10,7 @@
 
 **Mod Changes**:
 - Updated [Skyrim Reputation Improved (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
+- Updated [ELFX Fixes (5.7.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/25498)
 
 **Fixes & Tweaks**:
  - Dawnguard Arsenal now only-silver, also value & names normalised;
