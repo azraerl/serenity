@@ -1,5 +1,18 @@
 # Changelog
 
+## Serenity 2 v???
+
+**Build at:** `?`
+
+**Info**:
+- Download Size change: ?GB (68.25GB)
+- Install Size change: ?GB (97.11GB)
+
+**Mod Changes**:
+
+**Fixes & Tweaks**:
+ - Dawnguard Arsenal now only-silver, also value & names normalised.
+
 ## Serenity 2 v1.6.1
 
 **Build at:** `28.08.2021 10:00`
