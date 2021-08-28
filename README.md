@@ -297,11 +297,13 @@ If you have an ultrawide monitor (21:9), the UI will be off and look weird. You 
 
 ### Tweaking the Game Settings
 
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
+I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`) in case if you struggle with fps/performance. I recommend tweaking the `Detail` section for more FPS:
 
 - `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
+
+Additionally, you might want to tweak iMinGrassSize in the Veydosebrom Regions.ini - increasing value reduces density / detalisation of grass and so increases fps.
 
 ### Zoomed in Display
 
