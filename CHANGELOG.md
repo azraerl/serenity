@@ -9,9 +9,11 @@
 - Install Size change: ?GB (97.11GB)
 
 **Mod Changes**:
+- Updated [Skyrim Reputation Improved (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 
 **Fixes & Tweaks**:
- - Dawnguard Arsenal now only-silver, also value & names normalised.
+ - Dawnguard Arsenal now only-silver, also value & names normalised;
+ - Red cross marker on compass.
 
 ## Serenity 2 v1.6.1
 
