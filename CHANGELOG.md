@@ -29,8 +29,8 @@
 - Campfire: backpacks with divine amulets integrated into R-IDB, diverged bonuses adjusted and curses added (**no greater blessing this way**);
 - LotD: backpacks carry weight increased by a bit - to compensate lack of divine bonuses and justify alternative bulkier looks;
 - R-EG: fixed dozen of spell books with improper school covers;
-- R-IDB: fixed Talos blessing bonus for destroy DB;
-- FONTS: outed a few fonts due to bad readability.
+- R-IDB: fixed Talos blessing bonus for destroy DB being dependant on random event (which gives own bonus anyway);
+- FONTS: thrown away a few fonts due to bad readability.
 
 ## Serenity 2 v1.6.0.2
 
