@@ -1,6 +1,6 @@
 # Changelog
 
-## Serenity 2 v???
+## Serenity 2 v1.6.2
 
 **Build at:** `?`
 
@@ -11,10 +11,15 @@
 **Mod Changes**:
 - Updated [Skyrim Reputation Improved (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
 - Updated [ELFX Fixes (5.7.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/25498)
+- Updated [.NET Script Framework (15.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
+- Updated [ENB Series SkyrimSE (0.462)](http://enbdev.com/mod_tesskyrimse_v0462.htm)
 
 **Fixes & Tweaks**:
- - Dawnguard Arsenal now only-silver, also value & names normalised;
- - Red cross marker on compass.
+ - Dawnguard Arsenal weapons are now silver only instead of steel/silver mix, also their value & names normalised;
+ - Marked location now shown as a red cross marker on compass - e.g. it matches map icon;
+ - Visuals of bedrolls in tents slightly improved and textures replaced with improved 2Ks;
+ - R-EG: another dozen of spell books with improper school covers fixed - hopefully nothing missed now;
+ - A rogue flying rock from Leaps of Faith removed.
 
 ## Serenity 2 v1.6.1
 
