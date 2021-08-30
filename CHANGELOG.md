@@ -2,11 +2,11 @@
 
 ## Serenity 2 v1.6.2
 
-**Build at:** `?`
+**Build at:** `30.08.2021 12:00`
 
 **Info**:
-- Download Size change: ?GB (68.25GB)
-- Install Size change: ?GB (97.11GB)
+- Download Size change: - (68.25GB)
+- Install Size change: - (97.11GB)
 
 **Mod Changes**:
 - Updated [Skyrim Reputation Improved (1.3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52416)
@@ -19,7 +19,8 @@
  - Marked location now shown as a red cross marker on compass - e.g. it matches map icon;
  - Visuals of bedrolls in tents slightly improved and textures replaced with improved 2Ks;
  - R-EG: another dozen of spell books with improper school covers fixed - hopefully nothing missed now;
- - A rogue flying rock from Leaps of Faith removed.
+ - A rogue flying rock from Leaps of Faith removed;
+ - Updated Zangdar's ENB preset.
 
 ## Serenity 2 v1.6.1
 
