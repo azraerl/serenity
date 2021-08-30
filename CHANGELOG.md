@@ -1,5 +1,18 @@
 # Changelog
 
+## Serenity 2 v1.6.2.1
+
+**Build at:** `30.08.2021 18:10`
+
+**Info**:
+- Download Size change: - (68.25GB)
+- Install Size change: - (97.11GB)
+
+**Mod Changes**:
+- Updated [.NET Script Framework (16.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
+
+As v15.0 apparently was breaking half-cost spell perks globally 😒
+
 ## Serenity 2 v1.6.2
 
 **Build at:** `30.08.2021 12:00`
