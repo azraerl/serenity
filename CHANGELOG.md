@@ -1,5 +1,19 @@
 # Changelog
 
+## Serenity 2 v1.?
+
+**Build at:** `?`
+
+**Info**:
+- Download Size change: - (68.25GB)
+- Install Size change: - (97.11GB)
+
+**Mod Changes**:
+- -
+
+**Fixes & Tweaks**:
+- Fixed bunch of missives missing Quest Complete and/or Fail triggers.
+
 ## Serenity 2 v1.6.2.1
 
 **Build at:** `30.08.2021 18:10`
