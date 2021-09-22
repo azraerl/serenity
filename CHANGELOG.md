@@ -58,6 +58,7 @@
 - Added [High Gate Ruins Puzzle Reset Fix (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/53643)
 - Added [Spell Perk Item Distributor (SPID) (5.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Added [ENB lights for Aetherium shards (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54472)
+- Added [MCM Helper SE (1.3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
 - Replaced separate dungeons with [Dungeons - Revisited (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
 - Added [Smooth Staff Animation (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/54883)
 - Added [Smooth Magic Casting Animation (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/45799)
@@ -79,7 +80,7 @@
 - Updated [Requiem - NPC Statefix (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Added [Requiem - Small Tweaks SE - Essential Stay Down (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Updated [Requiem - Vampire Collection (0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
-- Updated [Requiem - Expanded Grimoire (3.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Requiem - Expanded Grimoire (3.2.3)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
 - Updated [The Choice is Yours (2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/3850)
 - Updated [Unnecessarily Fixed Fixed Dragon Stalking Fix (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55518)
 - Updated [College of Winterhold Quest Start Fixes (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
@@ -101,6 +102,9 @@
 - Updated [Masculine Argonian Textures (Chameleon and Lizard) (1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/185)
 - Updated [Feminine Argonian Textures (Chameleon and Lizard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/184)
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+- Updated [Radiant Requirements MCM (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/45427)
+- Updated [Radiant Requirements MCM - TPF Preset (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
+- Updated [TPF - Disable USSEP Book (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
 
 **Fixes & Tweaks**:
 - Fixed bunch of missives missing Quest Complete and/or Fail triggers;
