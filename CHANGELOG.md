@@ -105,6 +105,7 @@
 - Updated [Radiant Requirements MCM (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/45427)
 - Updated [Radiant Requirements MCM - TPF Preset (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
 - Updated [TPF - Disable USSEP Book (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
+- Updated [Splashes Of Skyrim (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
 - Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
