@@ -115,6 +115,7 @@
 - Updated [JS Purses and Septims SE (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/37306)
 - Updated [2K retexture for Nordic Beds SE by Deoster (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/39007)
 - Updated [Astral Aspect - 8K 4K 2K Standing Stones (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/18098)
+- Updated [ENB Series (0.463)](http://enbdev.com/mod_tesskyrimse_v0463.htm)
 - Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
