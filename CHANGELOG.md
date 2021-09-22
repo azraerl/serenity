@@ -62,7 +62,7 @@
 - Replaced separate dungeons with [Dungeons - Revisited (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
 - Added [Smooth Staff Animation (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/54883)
 - Added [Smooth Magic Casting Animation (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/45799)
-- Added [Smooth Random Magic idle Animation (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/49853)
+- Updated [Smooth Random Magic idle Animation (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/49853)
 - Updated [Requiem - Illusion Redone (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - Updated [Landscape Fixes For Grass Mods (4.9)](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 - Updated [Immersive Interactions - Animated Actions (1.50)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
@@ -105,6 +105,7 @@
 - Updated [Radiant Requirements MCM (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/45427)
 - Updated [Radiant Requirements MCM - TPF Preset (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
 - Updated [TPF - Disable USSEP Book (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/26092)
+- Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
 - Fixed bunch of missives missing Quest Complete and/or Fail triggers;
