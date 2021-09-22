@@ -109,6 +109,8 @@
 - Updated [Splashes Of Skyrim (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/47710)
 - Updated [Wyrmstooth (1.19.5)](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
 - Updated [Missives - Wyrmstooth (2.04c)](https://www.nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Fixed Mesh Lighting (1.4.2)](https://www.nexusmods.com/skyrimspecialedition/mods/53653)
+- Updated [AI Overhaul SSE (1.6.6)](https://www.nexusmods.com/skyrimspecialedition/mods/21654)
 - Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
