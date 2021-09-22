@@ -1,6 +1,6 @@
 # Changelog
 
-## Serenity 2 v1.7.0-prerelease
+## Serenity 2 v1.7.0-pre
 
 **Build at:** `?`
 
@@ -103,7 +103,23 @@
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
 
 **Fixes & Tweaks**:
-- Fixed bunch of missives missing Quest Complete and/or Fail triggers.
+- Fixed bunch of missives missing Quest Complete and/or Fail triggers;
+- Fixed Stedarr-relevant crossbow and greatsword to adhere R-IDB rules;
+- Immersive Racial Traits:
+   - Adjusted Argonian NPC regen, added additional regen while swimming;
+   - Fixed couple of certain shouts/perks affected by R-IRT changes;
+- NECR features restored, also race change pop-up is being shown only once per character;
+- Shriekwind Bastion: patched Requiem safe chest to not intersect with braziers;
+- No more free Thalmor robes - Altmers are not underdogs already, anyway;
+- Kilkreath Shades resist adjusted to follow statefix rules;
+- Axe of Forgotten Kings power level adjusted;
+- LotD Archeology perk Pack-it-in: description updated to match effect;
+- Campfire Unyielding perk: effect adjusted to match Requiem balance;
+- Certain armour issues resolved: orichalcum textures, Ulfric gear on females;
+- Number of ini files improvements for better compatibility, Controller enabled by default;
+- Set of easy-to-enable optional Widescreen mods added;
+- All (hopefully all) corpse additional actions now require crouching (aka cannibalism / blood extraction etc);
+- A bunch of minor fixes which I might have forgot to note =)
 
 ## Serenity 2 v1.6.2.1
 
