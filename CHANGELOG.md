@@ -116,6 +116,10 @@
 - Updated [2K retexture for Nordic Beds SE by Deoster (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/39007)
 - Updated [Astral Aspect - 8K 4K 2K Standing Stones (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/18098)
 - Updated [ENB Series (0.463)](http://enbdev.com/mod_tesskyrimse_v0463.htm)
+- Updated [Legacy of the Dragonborn Patches (Official) (2.5.6)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- Added [Legacy of the Dragonborn - Your Choices Matter Dark Brotherhood Unofficial Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54899)
+- Updated [Fossil Mining (3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/14107)
+- Updated [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 - Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
