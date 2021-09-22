@@ -94,6 +94,7 @@
 - Updated [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch) (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/36761)
 - Updated [JK's Mistveil Keep (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
 - Updated [JK's The Bannered Mare (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-44)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [DynDOLOD Resources SE 3 (Alpha-12)](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [Vanilla Script (micro)Optimizations (1.1a)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
 - Updated [Cathedral Weathers and Seasons (2.32)](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
