@@ -120,6 +120,7 @@
 - Added [Legacy of the Dragonborn - Your Choices Matter Dark Brotherhood Unofficial Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54899)
 - Updated [Fossil Mining (3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/14107)
 - Updated [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
+- Updated [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible) (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/55417)
 - Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
