@@ -12,15 +12,16 @@
 - Added [More To Say (8.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/22622)
 - Added [JK's Arnleif and Sons Trading Company (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54166)
 - Added [JK's The Hag's Cure (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54587)
-- Added [JK's Understone Keep (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55571)
+- Added [JK's Understone Keep (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55571)
+- Added [JK's Riverwood Trader (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55959)
 - Added [Skyrim Souls RE - Updated (2.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
 - Added [Honed Metal SSE Updated (1.21-hotfixed)](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
 - Added [Honed Metal Revoiced (1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/34393)
 - Added [FK's Diverse Racial Skeletons (1.6)](https://www.nexusmods.com/skyrimspecialedition/mods/38563)
 - Added [Furniture Height Size Fix Enhanced (1.11)](https://www.nexusmods.com/skyrimspecialedition/mods/32010)
 - Added [First Person Camera Height Fix (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
-- Added [Carriage Stops of Skyrim (1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/10434)
-- Added [Skyrim Unbound Reborn (Alternate Start) (1.6.11)](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+- Added [Carriage Stops of Skyrim (1.6)](https://www.nexusmods.com/skyrimspecialedition/mods/10434)
+- Added [Skyrim Unbound Reborn (Alternate Start) (1.6.13)](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
 - Added [CC's Castle Volkihar Remastered (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51071)
 - Added [FWMF for Paper Skyrim and Solstheim Maps by Mirhayasu (1.7)](https://www.nexusmods.com/skyrimspecialedition/mods/29932)
 - Added [Paper Forgotten Vale Map for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54628)
@@ -59,20 +60,27 @@
 - Added [Spell Perk Item Distributor (SPID) (5.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Added [ENB lights for Aetherium shards (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54472)
 - Added [MCM Helper SE (1.3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
+- Added [unofficial performance optimized textures AKA (UPOT) (9.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21166)
+- Added [Console Commands Extender (1.8.0)](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
+- Added [Copy and Paste in Console (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/30928)
+- Added [Unequip Quiver SE (1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/44031)
+- Added [Quest Journal Limit Bug Fixer - Recover Disappeared Quests (0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56130)
 - Replaced separate dungeons with [Dungeons - Revisited (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
 - Added [Smooth Staff Animation (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/54883)
 - Added [Smooth Magic Casting Animation (3.3)](https://www.nexusmods.com/skyrimspecialedition/mods/45799)
+- Added [Disable Turn Animation (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54803)
+- Updated [Smooth Combat non Combat Animation (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/52145)
 - Updated [Smooth Random Magic idle Animation (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/49853)
 - Updated [Requiem - Illusion Redone (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - Updated [Landscape Fixes For Grass Mods (4.9)](https://www.nexusmods.com/skyrimspecialedition/mods/9005)
 - Updated [Immersive Interactions - Animated Actions (1.50)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
 - Updated [Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version (1.50)](https://www.nexusmods.com/skyrimspecialedition/mods/53745)
 - Updated [JK's Palace of the Kings (1.1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/48902)
-- Updated [JK's Interiors Patch Collection (3.15)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [JK's Interiors Patch Collection (3.18)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Updated [Scrambled Bugs (13.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Updated [Guard Dialogue Overhaul SE (2.17)](https://www.nexusmods.com/skyrimspecialedition/mods/22075)
 - Updated [Legacy of The Dragonborn - Museum Exterior Fixes (0.3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47321)
-- Updated [Assorted mesh fixes (0.26)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Assorted mesh fixes (0.27)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [.NET Script Framework (17.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
 - Updated [Requiem - Better Forgotten Vale (0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 - Added [Requiem - Alduin Redone (0.1e)](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
@@ -95,7 +103,7 @@
 - Updated [JK's Mistveil Keep (1.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52462)
 - Updated [JK's The Bannered Mare (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-44)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
-- Updated [DynDOLOD Resources SE 3 (Alpha-12)](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- Updated [DynDOLOD Resources SE 3 (Alpha-13)](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [Vanilla Script (micro)Optimizations (1.1a)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
 - Updated [Cathedral Weathers and Seasons (2.32)](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
 - Updated [ElSopa - Iron Weapons Redone SE (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/52605)
@@ -121,6 +129,8 @@
 - Updated [Fossil Mining (3.2)](https://www.nexusmods.com/skyrimspecialedition/mods/14107)
 - Updated [Weapons Armor Clothing and Clutter Fixes (2.5)](https://www.nexusmods.com/skyrimspecialedition/mods/18994)
 - Updated [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible) (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/55417)
+- Updated [Better Dynamic Ash SE (2.1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/54754)
+- Updated [OnHit Animations Framework - SSE (1.16)](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
 - Removed: Teach Followers Spells, SunHelm Survival Compatibility Patches, Simple No Internal Friendly Fire, Smooth Random Sprint Animations, Simple Outfit System, Simple Follower Sandbox, Horses for Followers, Follower Trap Safety, Better Stealth AI for Followers, Alternate Start - Live Another Life.
 
 **Fixes & Tweaks**:
@@ -138,8 +148,24 @@
 - Campfire Unyielding perk: effect adjusted to match Requiem balance;
 - Certain armour issues resolved: orichalcum textures, Ulfric gear on females;
 - Number of ini files improvements for better compatibility, Controller enabled by default;
+- List now supplied with pre-cached grass and updated DynDOLOD profile;
 - Set of easy-to-enable optional Widescreen mods added;
 - All (hopefully all) corpse additional actions now require crouching (aka cannibalism / blood extraction etc);
+- Skyrim Unbound Reborn:
+   - Custom compatibility with Requiem implemented;
+   - Custom compatibility with Sanguinaire implemented;
+   - Minor MCM adjustments / too powerful options adjusted for Requiem;
+- Experience / SSL profile:
+   - Few rounds of changes / improvements for kill-XP-rewards;
+   - Vanilla Bounty quests and 1 Forsworn Missive now provide XP;
+   - SSL: skills cost in SP increased for Expert/Master levels;
+   - SSL: ability to buy a perk point for significant amount of SP added;
+   - Experience curve modified - higher levels require more XP;
+   - Experience quest rewards adjusted / increased;
+   - Experience character level vs. skill level cap removed;
+   - Skill level awards for Skill Books, certain quests and rare rewards restored (hopefully);
+   - R-IDB buffs now provide alternative bonuses in place of skill learning rates \[XP+SSL profile\];
+- .
 - A bunch of minor fixes which I might have forgot to note =)
 
 ## Serenity 2 v1.6.2.1
