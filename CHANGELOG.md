@@ -2,11 +2,11 @@
 
 ## Serenity 2 v1.7.0-pre
 
-**Build at:** `?`
+**Build at:** `30.09.2021 20:02`
 
 **Info**:
-- Download Size change: ? (68.25GB)
-- Install Size change: ? (97.11GB)
+- Download Size change: +0.91GB (69.17GB)
+- Install Size change: +4.34GB (101.45GB)
 
 **Mod Changes**:
 - Added [More To Say (8.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/22622)
@@ -23,11 +23,11 @@
 - Added [Carriage Stops of Skyrim (1.6)](https://www.nexusmods.com/skyrimspecialedition/mods/10434)
 - Added [Skyrim Unbound Reborn (Alternate Start) (1.6.13)](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
 - Added [CC's Castle Volkihar Remastered (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/51071)
-- Added [FWMF for Paper Skyrim and Solstheim Maps by Mirhayasu (1.7)](https://www.nexusmods.com/skyrimspecialedition/mods/29932)
+- Added [FWMF for Paper Skyrim and Solstheim Maps (1.7)](https://www.nexusmods.com/skyrimspecialedition/mods/29932)
 - Added [Paper Forgotten Vale Map for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54628)
 - Added [Paper Sovngarde Map for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54255)
-- Added [Wyrmstooth Paper Map by Duncan for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55025)
-- Added [Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53788)
+- Added [Wyrmstooth and Solstheim Paper Map by Duncan for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55025)
+- Added [Immersive Paper Map (3rd Edition) By CKW25 (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/54710)
 - Added [Paper Blackreach Map for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/53878)
 - Added [Paper Soul Cairn Map for FWMF (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55387)
 - Added [Holy Wards - a retexture (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/18535)
@@ -165,7 +165,6 @@
    - Experience character level vs. skill level cap removed;
    - Skill level awards for Skill Books, certain quests and rare rewards restored (hopefully);
    - R-IDB buffs now provide alternative bonuses in place of skill learning rates \[XP+SSL profile\];
-- .
 - A bunch of minor fixes which I might have forgot to note =)
 
 ## Serenity 2 v1.6.2.1
