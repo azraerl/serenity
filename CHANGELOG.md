@@ -1,5 +1,30 @@
 # Changelog
 
+## Serenity 2 v1.7.1-pre
+
+**Build at:** `?.2021 ?`
+
+**Info**:
+- Download Size change: ? (69.17GB)
+- Install Size change: ? (101.45GB)
+
+**Mod Changes**:
+- Added [Luxury Lava - Texture Replacer (4K-2K) (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56385)
+- Added [ENB Lava Particle Light Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
+- Added [Animated Embers (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56406)
+- Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
+- Updated [Assorted mesh fixes (0.29)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
+- Updated [Carriage and Ferry Travel Overhaul - Fixes and Winterhold (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/40651)
+- Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
+- Updated [Water for ENB - SOS (1.41)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+
+**Fixes & Tweaks**:
+- More To Say NPC blessings: aligned scripts to properly apply blessings;
+- Aligned Griffin's Daedric Gauntlets replica;
+- Fixed Wet-Fang Vampires water walking ability;
+- 
+
 ## Serenity 2 v1.7.0-pre
 
 **Build at:** `30.09.2021 20:02`
