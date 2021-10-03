@@ -23,7 +23,8 @@
 - More To Say NPC blessings: aligned scripts to apply them properly;
 - Aligned Griffin's Daedric Gauntlets replica;
 - Fixed Wet-Fang Vampires water walking ability;
-- 
+- Fixed vanilla Bounty quests not flagged complete stages;
+- Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives)
 
 ## Serenity 2 v1.7.0-pre
 
