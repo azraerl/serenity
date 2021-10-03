@@ -20,7 +20,7 @@
 - Updated [Water for ENB - SOS (1.41)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
 
 **Fixes & Tweaks**:
-- More To Say NPC blessings: aligned scripts to properly apply blessings;
+- More To Say NPC blessings: aligned scripts to apply them properly;
 - Aligned Griffin's Daedric Gauntlets replica;
 - Fixed Wet-Fang Vampires water walking ability;
 - 
