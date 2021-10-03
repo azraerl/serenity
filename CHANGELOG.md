@@ -11,7 +11,7 @@
 **Mod Changes**:
 - Added [Luxury Lava - Texture Replacer (4K-2K) (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56385)
 - Added [ENB Lava Particle Light Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
-- Added [Animated Embers (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56406)
+- Added [Animated Embers (2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56406)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 - Updated [Assorted mesh fixes (0.29)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
