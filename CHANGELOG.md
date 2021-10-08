@@ -25,7 +25,8 @@
 - Aligned Griffin's Daedric Gauntlets replica;
 - Fixed Wet-Fang Vampires water walking ability;
 - Fixed vanilla Bounty quests not flagged complete stages;
-- Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives)
+- Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
+- Teleport Vitals spell now should be working as expected (instead of being half-fixed).
 
 ## Serenity 2 v1.7.0-pre
 
