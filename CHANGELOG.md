@@ -18,7 +18,7 @@
 - Updated [Carriage and Ferry Travel Overhaul - Fixes and Winterhold (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/40651)
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
 - Updated [Water for ENB - SOS (1.41)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
-- Updated [Synthesis (0.20.2)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.2)
+- Updated [Synthesis (0.20.3)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.3)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply them properly;
@@ -27,7 +27,7 @@
 - Fixed vanilla Bounty quests not flagged complete stages;
 - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
-- Agents of (Sanguine) Lovers effects now should work.
+- Agents of (Sanguine) Lovers effects now should work; Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
 
 ## Serenity 2 v1.7.0-pre
 
