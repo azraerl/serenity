@@ -44,7 +44,7 @@
 - More To Say NPC blessings: aligned scripts to apply them properly;
 - Aligned Griffin's Daedric Gauntlets replica;
 - Fixed Wet-Fang Vampires water walking ability;
-- Fixed vanilla Bounty quests not flagged complete stages;
+- Fixed vanilla Bounty quests not flagged complete stages, and improved patcher to alert if any quest has such issue;
 - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
 - Agents of (Sanguine) Lovers effects now should work; Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
