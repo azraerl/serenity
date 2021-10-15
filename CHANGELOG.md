@@ -28,15 +28,17 @@
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Updated [Carriage and Ferry Travel Overhaul - Fixes and Winterhold (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/40651)
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
-- Updated [Water for ENB - SOS (1.43)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- Updated [Water for ENB - SOS (1.44)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
 - Updated [Realistic Water Two SE (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/2182)
 - Updated [Synthesis (0.20.3)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.3)
 - Updated [Requiem - Expanded Grimoire (4.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-48)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [DynDOLOD Resources SE 3 (Alpha-14)](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [SunHelm Survival and needs (3.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 - Updated [Scrambled Bugs (14.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
 - Updated [JK's Interiors Patch Collection (3.20.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
-- Updated [College of Winterhold Quest Start Fixes (0.2^s0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
+- Updated [College of Winterhold Quest Start Fixes (~~0.2~~ 0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
+- Updated [Cathedral - Armory | Glass Armory - Female Glass Armor Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20199)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply them properly;
