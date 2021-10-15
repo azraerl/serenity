@@ -12,13 +12,31 @@
 - Added [Luxury Lava - Texture Replacer (4K-2K) (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56385)
 - Added [ENB Lava Particle Light Patch (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/54657)
 - Added [Animated Embers (2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56406)
+- Added [ENB Lights For Effect Shaders (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56362)
+- Added [Unique Goldenglow Estate Crossing (0.7)](https://www.nexusmods.com/skyrimspecialedition/mods/56606)
+- Added [No overly Friendly Friends (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56661)
+- Added optional [Sanguinaire Heartbeat Silenced (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43217)
+- Added [JK's Temple of Dibella (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56371)
+- Added [Simple Activate SKSE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56767)
+- Added [Static Mesh Improvement Mod Improvement Mod (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/55543)
+- Added [lilebonymace's patches xEdit scripts and stuff (1.58)](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
+- Added [HD Glaze for JS Shrines of the Divines (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/56447)
+- Added [Holy Mountains (Majestic Mountains Compatible) (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56828)
+- Added [The Revamped Quiver (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/15942)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 - Updated [Assorted mesh fixes (0.29)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Updated [Carriage and Ferry Travel Overhaul - Fixes and Winterhold (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/40651)
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
-- Updated [Water for ENB - SOS (1.41)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- Updated [Water for ENB - SOS (1.43)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- Updated [Realistic Water Two SE (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/2182)
 - Updated [Synthesis (0.20.3)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.3)
+- Updated [Requiem - Expanded Grimoire (4.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-48)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [SunHelm Survival and needs (3.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Scrambled Bugs (14.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
+- Updated [JK's Interiors Patch Collection (3.20.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [College of Winterhold Quest Start Fixes (0.2^s0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply them properly;
@@ -28,6 +46,8 @@
 - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
 - Agents of (Sanguine) Lovers effects now should work; Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
+- Sanguinaire Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
+- Sanguinaire papyrus/script lags now should be eliminated;
 
 ## Serenity 2 v1.7.0-pre
 
