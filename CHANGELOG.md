@@ -39,6 +39,7 @@
 - Updated [JK's Interiors Patch Collection (3.20.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Updated [College of Winterhold Quest Start Fixes (~~0.2~~ 0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
 - Updated [Cathedral - Armory | Glass Armory - Female Glass Armor Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20199)
+- Updated [SKSE64 runtime 1.5.97 (2.0.20)](https://skse.silverlock.org/)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply them properly;
@@ -50,6 +51,7 @@
 - Agents of (Sanguine) Lovers effects now should work; Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
 - Sanguinaire Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
 - Sanguinaire papyrus/script lags now should be eliminated;
+- MoreToSay, 3DNPC, LOTD, Misc Dialogue edits to make them Unbound-aware;
 
 ## Serenity 2 v1.7.0-pre
 
