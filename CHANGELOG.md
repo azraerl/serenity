@@ -42,7 +42,7 @@
 - Updated [SKSE64 runtime 1.5.97 (2.0.20)](https://skse.silverlock.org/)
 
 **Fixes & Tweaks**:
-- More To Say NPC blessings: aligned scripts to apply them properly;
+- More To Say NPC blessings: aligned scripts to apply those properly and cure diseases;
 - LOTD: Aligned Griffin's Daedric Gauntlets replica;
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
 - Experience / Static Skill Leveling:
@@ -50,11 +50,11 @@
   - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
   - Further adjustments to XP curve, 1.7.0 values were pretty harsh;
   - Improvements for combat XP calculations and XP rewards assignment;
-- R-IDB fixes:
+- Requiem - Immersive Divine Blessings:
   - Agents of (Sanguine) Lovers effects now should work;
   - Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
-  - Julianos greater blessing does not break >12 CoW quests (spicy chicken);
-- Sanguinaire:
+  - Julianos greater blessing does not break >12 CoW quests (creds to spicy chicken);
+- Sanguinaire Revisited:
   - Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
   - Papyrus/script lags now should be eliminated (81 script rewritten);
   - Noxiphilic fear aura checks for PC detection;
