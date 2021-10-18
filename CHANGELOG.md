@@ -43,15 +43,29 @@
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply them properly;
-- Aligned Griffin's Daedric Gauntlets replica;
-- Fixed Wet-Fang Vampires water walking ability;
-- Fixed vanilla Bounty quests not flagged complete stages, and improved patcher to alert if any quest has such issue;
-- Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
+- LOTD: Aligned Griffin's Daedric Gauntlets replica;
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
-- Agents of (Sanguine) Lovers effects now should work; Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
-- Sanguinaire Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
-- Sanguinaire papyrus/script lags now should be eliminated;
-- MoreToSay, 3DNPC, LOTD, Misc Dialogue edits to make them Unbound-aware;
+- Experience / Static Skill Leveling:
+  - Fixed vanilla Bounty quests not flagged complete stages, and improved patcher to alert if any quest has such issue;
+  - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
+  - Further adjustments to XP curve, 1.7.0 values were pretty harsh;
+  - Improvements for combat XP calculations and XP rewards assignment;
+- R-IDB fixes:
+  - Agents of (Sanguine) Lovers effects now should work;
+  - Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
+  - Julianos greater blessing does not break >12 CoW quests (spicy chicken);
+- Sanguinaire:
+  - Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
+  - Papyrus/script lags now should be eliminated;
+  - Noxiphilic fear aura checks for PC detection;
+  - Noxiphilic feed checks for protected flag;
+  - Wet-Fang Vampires water walking ability now should behave properly;
+  - Silver swords/greatswords now upgradable via Honed Metal;
+- Skyrim Unbound Reborn integration:
+  - MoreToSay, 3DNPC, LOTD, Misc Dialogue edits to make them Unbound-aware;
+  - Requiem no longer installs from inventory triggers but instead from Unbound completition;
+  - Ability to choose starting vampiric strain changed to: Volkihar/Cyrodiilic/Aundae/Berne/Quarra;
+  - Unbound starting perks are set to 3 by default (to match Requiem; slider is 0..5), and those are the only perks assigned;
 
 ## Serenity 2 v1.7.0-pre
 
