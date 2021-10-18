@@ -56,7 +56,7 @@
   - Julianos greater blessing does not break >12 CoW quests (creds to spicy chicken);
 - Sanguinaire Revisited:
   - Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
-  - Papyrus/script lags now should be eliminated (81 script rewritten);
+  - Addressed Papyrus/Script lags with various strains (81 script rewritten, WIP);
   - Noxiphilic fear aura checks for PC detection;
   - Noxiphilic feed checks for protected flag;
   - Wet-Fang Vampires water walking ability now should behave properly;
