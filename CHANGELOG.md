@@ -45,6 +45,7 @@
 - More To Say NPC blessings: aligned scripts to apply those properly and cure diseases;
 - LOTD: Aligned Griffin's Daedric Gauntlets replica;
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
+- Immersive Armours: a few cuirasses duplicated protections cleaned up;
 - Experience / Static Skill Leveling:
   - Fixed vanilla Bounty quests not flagged complete stages, and improved patcher to alert if any quest has such issue;
   - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
