@@ -26,8 +26,17 @@
 - Added [The Revamped Quiver (1.3)](https://www.nexusmods.com/skyrimspecialedition/mods/15942)
 - Added [TB's Riften Wall (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57147)
 - Added [Dragonborn Presence - Discord Rich Presence (1.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/25287)
+- Added [Slow sprint bug fix (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57245)
+- Added [Fullscreen Book and Item Zoom (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/53738)
+- Added [Honed Metal SSE Updated - Settings Loader (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57237)
+- Added [Enhanced Blood Textures SE - Settings Loader (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56560)
+- Added [3D Riften Trellis and Roofs (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56973)
+- Added [Animated Tentacles for the GlowingMushrooms (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56981)
+- Added [DynDOLOD DLL SE (2.82)](https://www.nexusmods.com/skyrimspecialedition/mods/57264)
+- Added [Skyland Imperial and Nordic Tents (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/57002)
+- Added [Water in Wells - mesh-only animated wells (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/57268)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
-- Updated [Assorted mesh fixes (0.29)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Assorted mesh fixes (0.31.1)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Updated [Carriage and Ferry Travel Overhaul - Fixes and Winterhold (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/40651)
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
@@ -35,7 +44,7 @@
 - Updated [Realistic Water Two SE (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/2182)
 - Updated [Synthesis (0.20.3)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.3)
 - Updated [Requiem - Expanded Grimoire (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
-- Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-50)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-53)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [DynDOLOD Resources SE 3 (Alpha-15)](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [SunHelm Survival and needs (3.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 - Updated [Scrambled Bugs (14.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
@@ -45,12 +54,15 @@
 - Updated [SKSE64 runtime 1.5.97 (2.0.20)](https://skse.silverlock.org/)
 - Updated [JK's The Bee and Barb (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
 - Updated [Cathedral Weathers and Seasons (2.33)](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
+- Updated [powerofthree's Papyrus Extender (4.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [Skyland - Solitude (1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/24252)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply those properly and cure diseases;
 - LOTD: Aligned Griffin's Daedric Gauntlets replica;
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
 - Immersive Armours: a few cuirasses duplicated protections cleaned up;
+- Certain floating birds of prey nest is hidden;
 - Experience / Static Skill Leveling:
   - Fixed vanilla Bounty quests not flagged complete stages, and improved patcher to alert if any quest has such issue;
   - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
@@ -60,6 +72,7 @@
   - Agents of (Sanguine) Lovers effects now should work;
   - Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
   - Julianos greater blessing does not break >12 CoW quests (creds to spicy chicken);
+  - Predator's Might IDB effects now not stacking with itself;
 - Sanguinaire Revisited:
   - Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
   - Addressed Papyrus/Script lags with various strains (81 script rewritten, WIP);
