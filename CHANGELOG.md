@@ -19,7 +19,7 @@
 - Added optional [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
 - Added [JK's Temple of Dibella (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56371)
 - Added [Simple Activate SKSE (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56767)
-- Added [Static Mesh Improvement Mod Improvement Mod (1.2.2)](https://www.nexusmods.com/skyrimspecialedition/mods/55543)
+- Added [Static Mesh Improvement Mod Improvement Mod (1.3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/55543)
 - Added [lilebonymace's patches xEdit scripts and stuff (1.58)](https://www.nexusmods.com/skyrimspecialedition/mods/36042)
 - Added [HD Glaze for JS Shrines of the Divines (1.4)](https://www.nexusmods.com/skyrimspecialedition/mods/56447)
 - Added [Holy Mountains (Majestic Mountains Compatible) (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/56828)
@@ -34,28 +34,42 @@
 - Added [Animated Tentacles for the GlowingMushrooms (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/56981)
 - Added [DynDOLOD DLL SE (2.82)](https://www.nexusmods.com/skyrimspecialedition/mods/57264)
 - Added [Skyland Imperial and Nordic Tents (1.2)](https://www.nexusmods.com/skyrimspecialedition/mods/57002)
-- Added [Water in Wells - mesh-only animated wells (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/57268)
+- Added [Water in Wells - mesh-only animated wells (0.4.2)](https://www.nexusmods.com/skyrimspecialedition/mods/57268)
+- Added [Simply Knock SE (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/14098) and [Simply Knock SKSE64 DLL (4.0)](https://www.nexusmods.com/skyrimspecialedition/mods/24297)
+- Added [Show Stats (0.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/56069)
+- Added [CoMAP - Common Marker Addon Project (2.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
+- Added [Outline Map Markers - CoMAP Version (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57327)
+- Added [Ebony Warrior Addon - EWA (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57311)
+- Added [Oxygen Meter (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57452)
+- Added [JK's Temple of Kynareth (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56737)
+- Added [Dark Brotherhood Armor SE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57539)
+- Added [Dark Brotherhood Armor SE - CBBE 3BA conversion (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
+- Added [Simply Realistic Armor and Weapons (Custom NordwarUA Edition) (1.3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47184)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
-- Updated [Assorted mesh fixes (0.31.1)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Assorted mesh fixes (0.32.1)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Updated [Carriage and Ferry Travel Overhaul - Fixes and Winterhold (3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/40651)
 - Updated [Feminine Khajiit Textures (Grey Cat and Leopard) (3.1)](https://www.nexusmods.com/skyrimspecialedition/mods/183)
-- Updated [Water for ENB - SOS (1.45)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- Updated [Water for ENB - SOS (1.46)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
 - Updated [Realistic Water Two SE (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/2182)
-- Updated [Synthesis (0.20.3)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.3)
-- Updated [Requiem - Expanded Grimoire (4.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- Updated [Synthesis (0.20.4)](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.20.4)
+- Updated [Requiem - Expanded Grimoire (4.0.2)](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
 - Updated [Dynamic Distant Objects LOD - DynDOLOD (Alpha-53)](https://www.nexusmods.com/skyrimspecialedition/mods/32382)
 - Updated [DynDOLOD Resources SE 3 (Alpha-15)](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
 - Updated [SunHelm Survival and needs (3.0.5)](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 - Updated [Scrambled Bugs (14.0)](https://www.nexusmods.com/skyrimspecialedition/mods/43532)
-- Updated [JK's Interiors Patch Collection (3.21)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [JK's Interiors Patch Collection (3.22.1)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
 - Updated [College of Winterhold Quest Start Fixes (~~0.2~~ 0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/53817)
 - Updated [Cathedral - Armory | Glass Armory - Female Glass Armor Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20199)
 - Updated [SKSE64 runtime 1.5.97 (2.0.20)](https://skse.silverlock.org/)
 - Updated [JK's The Bee and Barb (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/49516)
 - Updated [Cathedral Weathers and Seasons (2.33)](https://www.nexusmods.com/skyrimspecialedition/mods/24791)
 - Updated [powerofthree's Papyrus Extender (4.5.2)](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
-- Updated [Skyland - Solitude (1.5)](https://www.nexusmods.com/skyrimspecialedition/mods/24252)
+- Updated [Skyland - Solitude (1.6)](https://www.nexusmods.com/skyrimspecialedition/mods/24252)
+- Updated [Vanilla Script (micro)Optimizations (1.12)](https://www.nexusmods.com/skyrimspecialedition/mods/54061)
+- Updated [JK's Sadris Used Wares (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
+- Updated [Windhelm Bridge Tweaks (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38433)
+- Updated [Immersive Interactions - Animated Actions (1.55)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply those properly and cure diseases;
@@ -69,7 +83,7 @@
   - Further adjustments to XP curve, 1.7.0 values were pretty harsh;
   - Improvements for combat XP calculations and XP rewards assignment;
 - Requiem - Immersive Divine Blessings:
-  - Agents of (Sanguine) Lovers effects now should work;
+  - Agents of (Sanguine) Lovers effects now should work and give expected increase;
   - Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
   - Julianos greater blessing does not break >12 CoW quests (creds to spicy chicken);
   - Predator's Might IDB effects now not stacking with itself;
@@ -80,11 +94,22 @@
   - Noxiphilic feed checks for protected flag;
   - Wet-Fang Vampires water walking ability now should behave properly;
   - Silver swords/greatswords now upgradable via Honed Metal;
+  - Blood Shield FX (and all Vampire Change FX as well) replaced with custom FleshFX;
 - Skyrim Unbound Reborn integration:
   - MoreToSay, 3DNPC, LOTD, Misc Dialogue edits to make them Unbound-aware;
   - Requiem no longer installs from inventory triggers but instead from Unbound completition;
   - Ability to choose starting vampiric strain changed to: Volkihar/Cyrodiilic/Aundae/Berne/Quarra;
   - Unbound starting perks are set to 3 by default (to match Requiem; slider is 0..5), and those are the only perks assigned;
+- Requiem - Immersive Racial Traits:
+  - Khajiits jumping bonus removed (it never worked on SSE, and maybe on LE too);
+  - Khajiits now don't die from Skooma;
+  - Khajiits now can resist Skooma visuals with with 120+ magicka (base 90 magicka interpolates into 30% of original effects);
+  - All races Skooma visuals toned down to 50% of original FX power;
+  - Saxhleels (Argonians) bonus histskin armour reduced to 30, but added piercing/ranged natural armour traits;
+  - Saxhleels now receive permanent bonuses from consuming hist sap:
+    - progression is slightly random, one sap not always gives an increase - but two saps can give two increases;
+    - bonus Magic Resist from 1% to 10% on max progression;
+    - bonus Melee Weapon speed from 3% to 15% on max progression (do not stack with Special Feats);
 
 ## Serenity 2 v1.7.0-pre
 
