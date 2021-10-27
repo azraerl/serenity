@@ -101,10 +101,11 @@
   - Ability to choose starting vampiric strain changed to: Volkihar/Cyrodiilic/Aundae/Berne/Quarra;
   - Unbound starting perks are set to 3 by default (to match Requiem; slider is 0..5), and those are the only perks assigned;
 - Requiem - Immersive Racial Traits:
-  - Khajiits jumping bonus removed (it never worked on SSE, and maybe on LE too);
-  - Khajiits now don't die from Skooma;
-  - Khajiits now can resist Skooma visuals with with 120+ magicka (base 90 magicka interpolates into 30% of original effects);
-  - All races Skooma visuals toned down to 50% of original FX power;
+  - All races Skooma visuals intensity toned down to 50% of original FX power;
+  - Khajiits bonuses reworked slightly:
+    - Khajiits jump height bonus removed (it never worked on SSE, and maybe on LE too);
+    - Khajiits now can't die from Skooma, and receive Magicka regen bonus along with standard Stamina regen bonus;
+    - Khajiits now can fully resist Skooma visuals with with 120+ magicka (base 90 magicka interpolates into 30% intensity);
   - Saxhleels (Argonians) bonus histskin armour reduced to 30, but added piercing/ranged natural armour traits;
   - Saxhleels now receive permanent bonuses from consuming hist sap:
     - progression is slightly random, one sap not always gives an increase - but two saps can give two increases;
