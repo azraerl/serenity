@@ -77,6 +77,8 @@
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
 - Immersive Armours: a few cuirasses duplicated protections cleaned up;
 - Certain floating birds of prey nest is hidden;
+- Unarmed Combat Enhancer: bandaid on script to prevent lags, waiting for proper solution from an author;
+- Missives: added bunch of NPCs to exclusion list (Florentus and Curator);
 - Experience / Static Skill Leveling:
   - Fixed vanilla Bounty quests not flagged complete stages, and improved patcher to alert if any quest has such issue;
   - Allowed some vanilla game repeatable quests to give XP (to be somewhat on par with Missives);
@@ -87,6 +89,7 @@
   - Dibella Sanguine Muse now properly gives Evasion (instead of Smith);
   - Julianos greater blessing does not break >12 CoW quests (creds to spicy chicken);
   - Predator's Might IDB effects now not stacking with itself;
+  - Weapons and Armours Redone are not reducing Blessing anymore;
 - Sanguinaire Revisited:
   - Lycantropy forced transformation no longer unequip amulets (Kyne's Token included);
   - Addressed Papyrus/Script lags with various strains (81 script rewritten, WIP);
