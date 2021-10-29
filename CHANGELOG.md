@@ -44,7 +44,7 @@
 - Added [JK's Temple of Kynareth (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56737)
 - Added [Dark Brotherhood Armor SE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57539)
 - Added [Dark Brotherhood Armor SE - CBBE 3BA conversion (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
-- Added [Unplayable Faction Armors SSE (1.0.7)](https://www.nexusmods.com/skyrimspecialedition/mods/30051) (only partially for now)
+- Added [Unplayable Faction Armors SSE (1.0.7)](https://www.nexusmods.com/skyrimspecialedition/mods/30051) (partially: only heavy Vigilant set)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 - Updated [Assorted mesh fixes (0.32.1)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
