@@ -43,8 +43,8 @@
 - Added [Oxygen Meter (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57452)
 - Added [JK's Temple of Kynareth (1.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56737)
 - Added [Dark Brotherhood Armor SE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57539)
-- Added [Dark Brotherhood Armor SE - CBBE 3BA conversion (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
-- Added [Simply Realistic Armor and Weapons (Custom NordwarUA Edition) (1.3.0)](https://www.nexusmods.com/skyrimspecialedition/mods/47184)
+- Added [Dark Brotherhood Armor SE - CBBE 3BA conversion (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
+- Added [Unplayable Faction Armors SSE (1.0.7)](https://www.nexusmods.com/skyrimspecialedition/mods/30051) (only partially for now)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 - Updated [Assorted mesh fixes (0.32.1)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
@@ -70,12 +70,13 @@
 - Updated [JK's Sadris Used Wares (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/47942)
 - Updated [Windhelm Bridge Tweaks (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38433)
 - Updated [Immersive Interactions - Animated Actions (1.55)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
+- Updated [High Poly Project (5.3)](https://www.nexusmods.com/skyrimspecialedition/mods/12029)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply those properly and cure diseases;
 - LOTD: Aligned Griffin's Daedric Gauntlets replica;
 - Teleport Vitals spell now should be working as expected (instead of being half-fixed);
-- Immersive Armours: a few cuirasses duplicated protections cleaned up;
+- Immersive Armours: a few cuirasses duplicated REQ protection keywords cleaned up;
 - Certain floating birds of prey nest is hidden;
 - Unarmed Combat Enhancer: bandaid on script to prevent lags, waiting for proper solution from an author;
 - Missives: added bunch of NPCs to exclusion list (Florentus and Curator);
@@ -107,13 +108,14 @@
   - All races Skooma visuals intensity toned down to 50% of original FX power;
   - Khajiits bonuses reworked slightly:
     - Khajiits jump height bonus removed (it never worked on SSE, and maybe on LE too);
-    - Khajiits now can't die from Skooma, and receive Magicka regen bonus along with standard Stamina regen bonus;
-    - Khajiits now can fully resist Skooma visuals with with 120+ magicka (base 90 magicka interpolates into 30% intensity);
+    - Khajiits now resist 1% chance to die from Skooma, and receive Magicka regen bonus along with standard Stamina regen bonus;
+    - Khajiits now can fully resist Skooma visuals with with 120+ magicka (base 90 magicka interpolates into ~30% intensity);
   - Saxhleels (Argonians) bonus histskin armour reduced to 30, but added piercing/ranged natural armour traits;
   - Saxhleels now receive permanent bonuses from consuming hist sap:
     - progression is slightly random, one sap not always gives an increase - but two saps can give two increases;
     - bonus Magic Resist from 1% to 10% on max progression;
-    - bonus Melee Weapon speed from 3% to 15% on max progression (do not stack with Special Feats);
+    - bonus Melee Weapon speed from 3% to 15% on max progression (do not stack with similar Special Feats perks);
+- Blur: alpha change effect removed, as any value would make 1st person translucent (would look for a better solution at some point).
 
 ## Serenity 2 v1.7.0-pre
 
