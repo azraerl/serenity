@@ -5,8 +5,8 @@
 **Build at:** `?.2021 ?`
 
 **Info**:
-- Download Size change: ? (69.17GB)
-- Install Size change: ? (101.45GB)
+- Download Size change: +1.72GB (70.89GB)
+- Install Size change: +2.95GB (104.4GB)
 
 **Mod Changes**:
 - Added [Luxury Lava - Texture Replacer (4K-2K) (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56385)
