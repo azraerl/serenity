@@ -2,7 +2,7 @@
 
 ## Serenity 2 v1.7.1-pre
 
-**Build at:** `?.2021 ?`
+**Build at:** `30.10.2021 01:30`
 
 **Info**:
 - Download Size change: +1.72GB (70.89GB)
@@ -45,6 +45,7 @@
 - Added [Dark Brotherhood Armor SE (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57539)
 - Added [Dark Brotherhood Armor SE - CBBE 3BA conversion (1.0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
 - Added [Unplayable Faction Armors SSE (1.0.7)](https://www.nexusmods.com/skyrimspecialedition/mods/30051) (partially: only heavy Vigilant set)
+- Added [Dragonborn Ingredients (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57493)
 - Updated [Enhanced Blood Textures SE (4.0-beta3)](https://www.nexusmods.com/skyrimspecialedition/mods/2357)
 - Updated [Assorted mesh fixes (0.32.1)](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 - Updated [Spell Perk Item Distributor (SPID) (5.0.4)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
@@ -71,6 +72,9 @@
 - Updated [Windhelm Bridge Tweaks (1.2.1)](https://www.nexusmods.com/skyrimspecialedition/mods/38433)
 - Updated [Immersive Interactions - Animated Actions (1.55)](https://www.nexusmods.com/skyrimspecialedition/mods/47670)
 - Updated [High Poly Project (5.3)](https://www.nexusmods.com/skyrimspecialedition/mods/12029)
+- Updated [ENB Series (0.465)](http://enbdev.com/mod_tesskyrimse_v0465.htm)
+- Updated [.NET Script Framework (18.0)](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
+- Updated [Enhanced Blood Textures SE - Settings Loader (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/56560)
 
 **Fixes & Tweaks**:
 - More To Say NPC blessings: aligned scripts to apply those properly and cure diseases;
