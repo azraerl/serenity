@@ -30,6 +30,7 @@
   - Compatibility with Experience 2.0.0 changes;
   - Fixed bunch of Favour quests to properly clear away from quest log;
   - Even more subtle changes in combat XP rewards;
+- Widescreen: magic menu now should be fixed.
 
 ## Serenity 2 v1.7.1-pre
 
