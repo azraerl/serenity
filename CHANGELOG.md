@@ -1,5 +1,23 @@
 # Changelog
 
+## Serenity 2 v1.7.2-pre
+
+**Build at:** `?.2021 ?`
+
+**Info**:
+- Download Size change: ? (70.89GB)
+- Install Size change: ? (104.4GB)
+
+**Mod Changes**:
+- Added optional [Dead is Dead - Death Lasts Forever](https://www.nexusmods.com/skyrim/mods/60179)
+- Updated [Experience (2.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+
+**Fixes & Tweaks**:
+- Requiem-Experience:
+  - Compatibility with Experience 2.0.0 changes;
+  - Fixed bunch of Favour quests to properly clear away from quest log;
+  - Even more subtle changes in combat XP rewards;
+
 ## Serenity 2 v1.7.1-pre
 
 **Build at:** `30.10.2021 01:30`
