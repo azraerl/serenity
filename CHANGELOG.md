@@ -10,7 +10,18 @@
 
 **Mod Changes**:
 - Added optional [Dead is Dead - Death Lasts Forever](https://www.nexusmods.com/skyrim/mods/60179)
+- Added [ENB Particle Lights for Gemstones (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/57672)
+- 
 - Updated [Experience (2.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- Updated [JK's The Bannered Mare (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
+- Updated [JK's Interiors Patch Collection (3.23)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
+- Updated [Skyrim Unbound Reborn (Alternate Start) (1.6.14)](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+- Updated [Skyrim Landscape and Water Fixes (6.4)](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
+- Updated [Masculine Argonian Textures (Chameleon and Lizard) (2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/185)
+- Updated [Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version (1.56)](https://www.nexusmods.com/skyrimspecialedition/mods/53745) - 1.7.1 had self-made patch
+- Updated [Dear Diary - Paper SkyUI Menus Replacer SE (3.0.6)](https://www.nexusmods.com/skyrimspecialedition/mods/23010)
+- Updated [Dark Brotherhood Armor SE - CBBE 3BA - BHUNP conversion (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
+- 
 
 **Fixes & Tweaks**:
 - Requiem-Experience:
