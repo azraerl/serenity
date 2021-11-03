@@ -14,6 +14,8 @@
 - Added [ENB Particle Lights for Gemstones (1.1)](https://www.nexusmods.com/skyrimspecialedition/mods/57672)
 - Added [Savos Aren's Regrets Restored - Cut Content Restoration (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57677)
 - Added [Labyrinthian Shalidor's Maze Fixes (0.3)](https://www.nexusmods.com/skyrimspecialedition/mods/52239)
+- Added [Spellbreaker Spell Reflection and Ward Visuals Restored - Cut Content Restoration (1.0.1)](https://www.nexusmods.com/skyrimspecialedition/mods/57273)
+- Added [FUS RO DON'T - PushActorAway Crash Prevention Script Tweak (1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57816)
 - Updated [Experience (2.0.0)](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 - Updated [JK's The Bannered Mare (1.1.0)](https://www.nexusmods.com/skyrimspecialedition/mods/33845)
 - Updated [JK's Interiors Patch Collection (3.23)](https://www.nexusmods.com/skyrimspecialedition/mods/35910)
@@ -23,14 +25,18 @@
 - Updated [Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version (1.56)](https://www.nexusmods.com/skyrimspecialedition/mods/53745) - 1.7.1 had self-made patch
 - Updated [Dear Diary - Paper SkyUI Menus Replacer SE (3.0.6)](https://www.nexusmods.com/skyrimspecialedition/mods/23010)
 - Updated [Dark Brotherhood Armor SE - CBBE 3BA - BHUNP conversion (1.2.0)](https://www.nexusmods.com/skyrimspecialedition/mods/57553)
-- Updated [Water for ENB (1.47)](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- Updated [Water for ENB (1.47)](https://www.nexusmods.com/skyrimspecialedition/mods/37061) + Volcanic Water Patch
 
 **Fixes & Tweaks**:
 - Requiem-Experience:
   - Compatibility with Experience 2.0.0 changes;
   - Fixed bunch of Favour quests to properly clear away from quest log;
   - Even more subtle changes in combat XP rewards;
-- Widescreen: magic menu now should be fixed.
+- Widescreen: magic menu now should be fixed;
+- Requiem - Expanded Grimoire: fixed couple non-forwarded changes of 4.0.2 and wrong Corrosion Cloak condition;
+- Race Compatibility: applied custom patcher which addresses various condition to honour Sanguinaire vampirism (3500+ records);
+- 
+
 
 ## Serenity 2 v1.7.1-pre
 
