@@ -104,14 +104,28 @@ Just do it. This entire Modlist is in English and 99% of all mods you will find 
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-#### Clean Skyrim
+#### Clean Skyrim <Special Edition>
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. Alternatively you can use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to remove everything modding related from your Skyrim folder. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
 #### Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
+
+### Downgrade Skyrim Anniversary Edition to Special Edition
+
+**Serenity 2 is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update and there is no estimated time frame for when this may change.**
+
+The Anniversary Edition and Anniversary Update make a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
+
+If your Skyrim Special Edition received an update through Steam anytime after November 11, 2021, you have the Anniversary Update. Note that it might be automatically updated by Steam even if you have disabled updates.
+
+In order to install Serenity 2, you must use the [FULL AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) (**NOT** 'Best of Both Worlds')
+
+After Serenity 2 installation would be completed, you may update your Steam Skyrim to AE if you like - Serenity would continue to use own copy of SSE files.
+
+Please do not ask when any AE or the AE update will be supported.
 
 ### Using Wabbajack
 
@@ -253,6 +267,8 @@ If this Modlist receives an update please check the Changelog before doing anyth
 This means **screenshots** and **presets** you have created, as well as **custom settings** and any **additional mods** you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched\*
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+  
+Remember that you might have to downgrade your Skyrim to Special Edition, if you have updated it to Anniversary Edition. [More about SAE here](#Downgrade Skyrim Anniversary Edition to Special Edition)
 
 \* *Note, you can preserve character presets (and even modifications) by adding `[NoDelete] ` tag to your mod. For example, `[NoDelete] Khinara Jade SE - RaceMenu Preset` such mod will not be deleted by Wabbajack overwrite/upgrade.*
 
