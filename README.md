@@ -268,7 +268,7 @@ This means **screenshots** and **presets** you have created, as well as **custom
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
   
-Remember that you might have to downgrade your Skyrim to Special Edition, if you have updated it to Anniversary Edition. [More about SAE here](#Downgrade Skyrim Anniversary Edition to Special Edition)
+Remember that you might have to downgrade your Skyrim to Special Edition, if you have updated it to Anniversary Edition.
 
 \* *Note, you can preserve character presets (and even modifications) by adding `[NoDelete] ` tag to your mod. For example, `[NoDelete] Khinara Jade SE - RaceMenu Preset` such mod will not be deleted by Wabbajack overwrite/upgrade.*
 
