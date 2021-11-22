@@ -14,6 +14,7 @@
       - [Set the Game language to English](#set-the-game-language-to-english)
       - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-skyrim)
+      - [Downgrade Skyrim Anniversary Edition to Special Edition](#downgrade-skyrim-anniversary-edition-to-special-edition)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
