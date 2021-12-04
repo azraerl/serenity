@@ -329,8 +329,8 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
 - Set the display scaling back to 100% in the Screen Resolution Settings for Windows
 - Edit the mod SSE Display Tweaks.
   - Under `[Render]`
-    - Set Fullscreen to `True`
-    - Set Borderless to `False`
+    - Set Fullscreen to `true`
+    - Set Borderless to `false`
 
 ### Removing the Modlist
 
