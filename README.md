@@ -12,7 +12,7 @@
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
       - [Change Steams Update Behavior](#change-steams-update-behavior)
       - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Skyrim](#clean-skyrim)
+      - [Clean Skyrim Special Edition](#clean-skyrim-special-edition)
       - [Start Skyrim](#start-skyrim)
       - [Downgrade Skyrim Anniversary Edition to Special Edition](#downgrade-skyrim-anniversary-edition-to-special-edition)
     - [Using Wabbajack](#using-wabbajack)
@@ -50,7 +50,7 @@
 
 ![serenity-banner](cover/Cover.png)
 
-Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.2 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
+Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem experience to the table. It uses Requiem 4.0.2 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targeted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.
 
 ## System Requirements
 
@@ -61,7 +61,7 @@ Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh 
 
 Serenity is a mid to high end list in terms of graphics. A minimum of 6GB VRAM is required to play smoothly (60fps) on 1080p and 8GB VRAM to play smoothly (60fps) on 1440p
 
-[Xanza] I made this list with my specs in mind and I am able to get 72FPS (capped so my GPU doesn't work harder than it needs to) in riverwood and whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
+[Xanza] I made this list with my specs in mind and I am able to get 72FPS (capped so my GPU doesn't work harder than it needs to) in Riverwood and Whiterun outdoors with Rudy ENB for Cathedral Weathers with these specs
 
 * CPU: Ryzen 7 3700x
 * GPU: EVGA RTX 3080 FTW3 Ultra
@@ -105,7 +105,7 @@ Just do it. This entire Modlist is in English and 99% of all mods you will find 
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-#### Clean Skyrim <Special Edition>
+#### Clean Skyrim Special Edition
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
@@ -114,11 +114,11 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
-### Downgrade Skyrim Anniversary Edition to Special Edition
+#### Downgrade Skyrim Anniversary Edition to Special Edition
 
 **Serenity 2 is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update and there is no estimated time frame for when this may change.**
 
-The Anniversary Edition and Anniversary Update make a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
+The Anniversary Edition and Anniversary Update makes a number of fundamental changes which means many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
 
 If your Skyrim Special Edition received an update through Steam anytime after November 11, 2021, you have the Anniversary Update. Note that it might be automatically updated by Steam even if you have disabled updates.
 
@@ -126,7 +126,7 @@ In order to install Serenity 2, you must use the [FULL AE downgrade patcher](htt
 
 After Serenity 2 installation would be completed, you may update your Steam Skyrim to AE if you like - Serenity would continue to use own copy of SSE files.
 
-Please do not ask when any AE or the AE update will be supported.
+Please do not ask when the AE update will be supported.
 
 ### Using Wabbajack
 
@@ -147,7 +147,7 @@ The download and installation process can take a very long time depending on you
 
 ##### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
@@ -159,19 +159,21 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Path is a zero length string error**:
 
-This error occurs when you don't specify an installation folder in the installation before hitting run
+This error occurs when you don't specify an installation folder in the installation before hitting run.
 
 ## Post-Installation
 
 ### Game Folder
 
-The installation will create a copy of your Skyrim Special Edition game in `Instalation Folder/Stock Games`. This will then contain all the necessary files such as SKSE, ENB Binaries, Reshade Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game
+The installation will create a copy of your Skyrim Special Edition game in `Instalation Folder/Stock Games`. This will then contain all the necessary files such as SKSE, ENB Binaries, Reshade Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
 
 ### ENB
 
 Serenity comes with [Rudy ENB for Cathedral Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/39113) included.
 
-If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Cathedral Weathers. To replace the ENB installed, delete the `enbcache` folder, `enbseries` folder, `enbseries.ini` and replace those with the new ENB. You don't have to delete the `enblocal.ini` as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+
+**Remember to disable `NightEyeENBFix.esp` on right panel if you're swapping away from Rudy ENB - otherwise you'll see red tint**
 
 ** **Remember to disable NightEyeENBFix.esp on right panel if you're swapping away from Rudy ENB - otherwise you'll see red tint** **
 
@@ -191,9 +193,9 @@ A few other ENB suggestions are:
 
 ### Requiem
 
-[Requiem](https://www.nexusmods.com/skyrim/mods/19281) is a project with the goal of turning Skyrim into a better roleplaying experience by making game more immersive, semi-realistic and coherent, with the tend to find a compromiss between old school mechanics and more modern approaches.
+[Requiem](https://www.nexusmods.com/skyrim/mods/19281) is a project with the goal of turning Skyrim into a better roleplaying experience by making game more immersive, semi-realistic and coherent, and tends to find a compromise between old school mechanics and more modern approaches.
 
-Requiem is the core mod behind Serenity. It overhauls the entire game with regards to Races, Combat, Standing Stones, Dragons, Perks, Difficulty and much much more. Requiem offers an unleveled world in where everything is static and doesn't level with the player.
+Requiem is the core mod behind Serenity. It overhauls the entire game with regards to Races, Combat, Standing Stones, Dragons, Perks, Difficulty and much much more. Requiem offers an unleveled world where all NPC levels are static and don't level with the player.
 
 ### Requiem modifications
 
@@ -210,7 +212,7 @@ Serenity comes with a few modifications to Requiem. This includes but is not lim
 
 ### Leveling overhaul
 
-Note that Serenity now includes 2 profiles, select the one which you like. Remember, they are **not** game save compatible:
+Note that Serenity now includes 2 profiles, select the one you like. Remember, they are **not** game save compatible:
 
 - `Serenity` profile includes [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), [R-SSL](https://www.nexusmods.com/skyrimspecialedition/mods/43185) and [Requiem-Experience](https://github.com/azraerl/Requiem-Experience/)
   - **Character levels**: you have to fight enemies and complete quests in order to gain experience and character levels. Note that followers will take equal share of combat experience, e.g. with 1 follower you'll receive about 50% of it.
@@ -229,7 +231,7 @@ Serenity comes with a wide variety of new quest and encounters. A few are listed
 
 [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) is a story about hunting a dragon for a bounty. Find out what its motives are and save the land of Wyrmstooth from its fury.
 
-[Konahrik Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) expands the dragon priest armory by adding new armorsets to go along the dragon preist masks and provide new powers to your character from their unique enchants
+[Konahrik Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) expands the dragon priest armory by adding new armorsets to go along the dragon priest masks and provide new powers to your character from their unique enchants
 
 ### Expanded Cities Towns and Villages
 
@@ -237,13 +239,13 @@ Serenity uses the full suite of [JK's Skyrim](https://www.nexusmods.com/skyrimsp
 
 ### Followers
 
-[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced Khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak.
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with around 3000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right.
 
 ### Audio and Weather
 
-[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for skyrim's ambiance and foley.
+[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466) and [Immersive Sounds Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/523) offer an amazing base for Skyrim's ambiance and foley.
 
 ### New Equippables
 
@@ -320,7 +322,7 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
-Additionally, you might want to tweak iMinGrassSize in the Veydosebrom Regions.ini - increasing value reduces density / detalisation of grass and so increases fps.
+Additionally, you might want to tweak iMinGrassSize in the Veydosebrom Regions.ini - increasing this value reduces density / detail level of grass and so increases fps.
 
 ### Zoomed in Display
 
