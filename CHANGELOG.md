@@ -1,5 +1,5 @@
-# Serenity 2 Gallery Changelog
--> [See BETA changelog](BETA.md)
+# Serenity 2 Changelog (release version)
+-> [See BETA changelog here](BETA.md)
 
 ## Serenity 2 v1.6.3
 
