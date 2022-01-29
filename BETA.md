@@ -1,4 +1,4 @@
-# Beta Changelog
+# Serenit 2 Beta Changelog
 
 ## Serenity 2 v1.7.3-pre
 
