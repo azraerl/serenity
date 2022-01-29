@@ -1,5 +1,7 @@
 # Serenity 2
 
+![serenity status](https://img.shields.io/badge/dynamic/json?label=Status&query=Status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Freports%2Fserenity%2Fstatus.json&style=for-the-badge) ![serenity version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22serenity%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)
+
 - [Serenity 2](#serenity-2)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
@@ -272,23 +274,13 @@ Included in Serenity is SunHelm Survival. It is already tweaked for Requiem Comp
 
 ## Other Post Installation FAQ
 
-### Ultrawide Options
+### Ultrawide or non-standard Monitor Options
 
-If you have an ultrawide monitor (21:9), the UI will be off and look weird. You will want to install a set of mods meant to help with widescreen monitors
+If you have an a non-standard monitor resolution (not 16:9), the UI may be off and may look weird.
 
-* Head over to [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778)
-* Grab Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080 from the main files section
-* Under Optional File grab
-   * Better Dialogue Control Widescreen Fix
-   * Campfire 1.12.1 and Frostall 3.4.1SE - Unofficial SSE Widescreen Fix
-   * Extended UI - Widescreen Fix
-   * Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
-   * SkyHud - High Resolution Widescreen Fix
-* Install all of these mods, activate them and the plugins and let them load at the bottom
-* Re-install "Dear Diary" and "Dialogue Interface ReShaped" mods under Interface category with Widescreen option
-* Disable "Paper HUD" - sadly this does not have ultrawide support (alternatively you can edit its configs - and share them)
-* You should now have a working UI with widescreen support
+Please head over to Widescreen optional section and pick and match mods for your resolution.\*
 
+\* *Enabling/disabling mods in this category does not require new game save creation, also there is no need to move mods nor plugins.*
 
 ### Tweaking the Game Settings
 
