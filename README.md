@@ -1,7 +1,5 @@
 # Serenity 2
 
-![build-status](https://img.shields.io/endpoint?label=%20Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fserenity%2Fbadge.json)
-
 - [Serenity 2](#serenity-2)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
@@ -10,11 +8,9 @@
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Steam Config](#steam-config)
         - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
       - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Skyrim Special Edition](#clean-skyrim-special-edition)
+      - [Clean Skyrim Anniversary Edition](#clean-skyrim-anniversary-edition)
       - [Start Skyrim](#start-skyrim)
-      - [Downgrade Skyrim Anniversary Edition to Special Edition](#downgrade-skyrim-anniversary-edition-to-special-edition)
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
@@ -93,19 +89,13 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behavior
-
-SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
-
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
-
 #### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
-#### Clean Skyrim Special Edition
+#### Clean Skyrim Anniversary Edition
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
@@ -113,20 +103,6 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
-
-#### Downgrade Skyrim Anniversary Edition to Special Edition
-
-**Serenity 2 is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update and there is no estimated time frame for when this may change.**
-
-The Anniversary Edition and Anniversary Update makes a number of fundamental changes which means many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
-
-If your Skyrim Special Edition received an update through Steam anytime after November 11, 2021, you have the Anniversary Update. Note that it might be automatically updated by Steam even if you have disabled updates.
-
-In order to install Serenity 2, you must use the [FULL AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) (**NOT** 'Best of Both Worlds')
-
-After Serenity 2 installation would be completed, you may update your Steam Skyrim to AE if you like - Serenity would continue to use own copy of SSE files.
-
-Please do not ask when the AE update will be supported.
 
 ### Using Wabbajack
 
